@@ -1,0 +1,3 @@
+Abra a classe Importador, no pacote br.com.caelum.empresa.leitor e veja o código. A classe Gasto talvez esteja sublinhada, isso acontece quando ela não foi importada. Para fazer isso, podemos usar os atalhos padrão para quando algo está sublinhado: ctrl + . e ctrl + 1. Mas para declarar os imports, existe um atalho específico: o ctrl + shift + O, chamado Organize Imports, que além de importar os tipos faltantes, remove os imports não usados e os organiza de acordo com os pacotes.
+
+Além disso, arrume a indentação da classe usando o atalho ctrl + shift + F, e organize o código como achar que fica mais legíve

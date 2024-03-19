@@ -1,0 +1,3 @@
+Novamente, rode o programa em modo debug usando alt + shift + D, J e observe os valores de ambas as variáveis.
+
+Use os atalhos aprendidos para monitorar os valores das variáveis, pular para o próximo passo e assim por diante. Relembrando: F6 para passar para a próxima linha e ctrl + shift + D para mostrar o valor (que também pode ser acompanhado na view Variables).

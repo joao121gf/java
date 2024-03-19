@@ -1,0 +1,31 @@
+Vamos transformar nossa classe DAO em um "DAO genérico", isso é, utilizar do recurso Generics do Java. Infelizmente, não existe um atalho para transformar uma classe em uma classe genérica, porém, podemos agilizar o processo com atalhos que já vimos no curso.
+
+Primeiramente, precisamos mudar a declaração da classe para que seja genérica:
+
+
+public class DAO<T>
+
+
+Podemos agora utilizar do Ctrl+F, selecionar todas as palavras Gasto e substituí-las por T. Fazendo isso, geramos um erro na própria classe DAO. Para consertar, vamos apagar o construtor antigo:
+
+
+
+public DAO() {
+    super();
+}
+
+
+E criar um novo com o atalho gcuf. Esse novo construtor irá receber a classe que queremos. Não se esqueça de tirar a atribuição ao atributo classe. No final, fica assim:
+
+
+public class DAO<T> {
+
+    private final EntityManager entityManager = new JPAUtil().getEntityManager();
+    private Class<T> classe;
+
+    public DAO(Class<T> classe) {
+        super();
+        this.classe = classe;
+    }
+
+    //outros métodos

@@ -1,0 +1,11 @@
+Crie um template que gere o código de impressão dos itens de uma lista. O nome do template deve ser forprint, e o código gerado deve ser o sequinte:
+
+//supondo que existe uma lista de Gastos chamada gastos
+for(Gasto gasto: gastos){
+    System.out.println(gasto);
+
+}
+
+
+Baseie-se no código dos templates: foreach e sysout para criar o seu.
+

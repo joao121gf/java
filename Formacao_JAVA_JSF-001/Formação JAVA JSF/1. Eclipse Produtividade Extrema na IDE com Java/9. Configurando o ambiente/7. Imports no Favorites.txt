@@ -1,0 +1,3 @@
+Se você cria produtos constantemente, mesmo o ctrl + shift + M fica cansativo. Vamos fazer com que o Eclipse enxergue automaticamente os tipos disponíveis naquela enum no ctrl + espaço.
+
+Para isso, basta configurar a classe TipoDeProduto como um dos Favoritos (ache o menu Favorites pelo ctrl + 3). Faça a configuração e teste.

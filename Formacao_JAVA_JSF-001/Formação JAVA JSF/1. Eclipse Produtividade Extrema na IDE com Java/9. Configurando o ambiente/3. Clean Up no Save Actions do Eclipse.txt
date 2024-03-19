@@ -1,0 +1,7 @@
+É muito comum digitarmos código com a indentação incorreta, chaves na linha errada, e assim por diante. O atalho Ctrl + Shift + F nos ajuda a formatar o código, mas invocar este atalho constantemente pode cansar.
+
+Vamos fazer com que o Eclipse formate nosso código automaticamente sempre que salvarmos nosso arquivo. Para isso, vá em Save Actions (em Java > Editor), e configure o Clean Up lá.
+
+Abra uma classe sua qualquer, faça uma alteração de teste (como remover um tab, ou empurrar o "fecha chaves" na linha de baixo), e salve o arquivo.
+
+Aproveite para reconfigurar o número de colunas da formatação para uma que se adeque melhor à sua resolução. Nossa sugestão são 120 colunas.

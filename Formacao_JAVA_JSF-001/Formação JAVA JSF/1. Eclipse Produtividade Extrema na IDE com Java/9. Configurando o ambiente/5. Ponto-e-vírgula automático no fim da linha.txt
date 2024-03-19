@@ -1,0 +1,16 @@
+Outra coisa muito comum é esquecermos de digitar o ponto-e-vírgula. E quando lembramos, raramente estamos no final da linha. Então precisamos sempre ir ao final da linha (apertando Ctrl + seta pra frente), por exemplo.
+
+Fazemos isso um milhão de vezes por dia. Ou seja, é hora de repassar essa tarefa para o Eclipse.
+
+Configure-o para que ele coloque o ponto-e-vírgula no final da linha sempre que você digitar ";" em qualquer lugar do código. Para isso, basta ir em Typing (em Java > Editor).
+
+Faça um teste. Digite o seguinte código em uma classe qualquer:
+
+
+public static void main(String[] args) {
+  System.out.println("Caelum") // digite isso
+  System.out.println("Caelum"|) // fique com o cursor ali aonde está o |
+  System.out.println("Caelum";) // digite ";" ali
+  System.out.println("Caelum"); // eclipse automaticamente colocará no fim da linha
+
+}

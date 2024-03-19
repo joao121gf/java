@@ -1,0 +1,5 @@
+Vá em alguma classe sua que utiliza a interface List. É bastante frequente, quando somos iniciantes em Java, nos confundirmos com imports que não queremos. Reduzir a lista removendo opções que não queremos é muito interessante!
+
+Para isso, faça ctrl + 3 Type Filters (Java/Appearance) e adicione os pacotes indesejados nessa lista. Para nosso exemplo, adicione o org.corba.* e, também, o java.awt.*.
+
+Agora, apague o import do List e mande o Eclipse importá-lo novamente.

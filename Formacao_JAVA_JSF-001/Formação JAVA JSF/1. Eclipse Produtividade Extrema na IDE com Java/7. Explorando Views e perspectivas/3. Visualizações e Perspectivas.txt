@@ -1,0 +1,7 @@
+Essa é a hora de experimentar as visualizações flat e hierarchical dos pacotes, como explicado no texto dessa seção. Tente ambos e escolha seu favorito!
+
+Além disso, você pode experimentar também a combinação de visualizações com perspectivas.
+
+Selecione a perspectiva Java, teste o menu rápido de novo arquivo (File > New ou alt + shift + N). Veja quais são as opções disponíveis. Mude para a perspectiva Java EE (usando o ctrl + F8) e faça a mesma coisa.
+
+Teste também em outras perspectivas, como a Web e a JPA e veja as diferenças.

@@ -1,0 +1,8 @@
+Crie o template do logger. Acesse o menu Window -> Preferences -> Java -> Editor -> Templates e clique no botão New.... Insira o nome logger para o template, e o código abaixo no Pattern
+
+private static final ${type:newType(org.apache.log4j.Logger)} logger = 
+Logger.getLogger(${enclosing_type}.class);
+
+
+Dê o ok e teste o Template em alguma classe, por exemplo a Funcionario. Provavelmente o Eclipse acusará que a classe do log4j não pôde ser importada, porém isso não é problema, pois o intuito foi mostrar como criar o template, não usaremos o logger no projeto.
+

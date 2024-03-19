@@ -1,0 +1,3 @@
+Em GastoDAO vamos utilizar o atalho Alt + Shift + T e selecionar Extract Superclass....
+
+O nome da classe mãe será DAO e vamos selecionar todos os atributos e métodos com Select All e dar Finish

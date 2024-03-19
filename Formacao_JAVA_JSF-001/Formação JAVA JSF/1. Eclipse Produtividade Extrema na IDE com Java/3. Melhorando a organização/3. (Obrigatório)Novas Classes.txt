@@ -1,0 +1,44 @@
+Nesse capítulo do curso, recebemos duas novas classes, a Importador e a TesteImportador(não usamos ainda).
+
+Crie no seu projeto ambas as classes, prestando atenção nos pacotes, onde Importador deve pertencer ao pacote br.com.caelum.empresa.leitor, e a classe TesteImportador ao pacote br.com.caelum.empresa. Caso você tenha realizado o exercício de criação do atributo pagoEmDinheiro na classe Gasto, lembre-se de apagá-lo, pois não iremos utilizá-lo.
+
+Segue o código da classe TesteImportador. Lembre-se de resolver os conflitos com ctrl+1, e caso sejam problemas de import, existe o comando ctrl+shift+O, que Organiza todos os imports da classe para voçê.
+
+
+
+
+package br.com.caelum.empresa;
+
+import java.io.ByteArrayInputStream;
+import java.io.UnsupportedEncodingException;
+import java.text.ParseException;
+import java.util.List;
+
+import br.com.caelum.empresa.modelo.Gasto;
+import br.com.caelum.empresa.leitor.Importador;
+
+public class TesteImportador {
+
+    public static void main(String[] args) throws UnsupportedEncodingException, ParseException {
+        String conteudo = 
+                "CARTAO01012011000010000123jbjasbd jbjbbb                22071983\r\n" +
+                "CARTAO01012011000010000123jbjasbd jbjbbb                22071983\r\n" +
+                "CARTAO01012011000010000123jbjasbd jbjbbb                22071983\r\n";
+
+        Importador importador = new Importador();
+
+        List<Gasto> list = importador.importa(new ByteArrayInputStream(conteudo.getBytes("UTF-8")));
+
+        for (Gasto gasto : list) {
+            System.out.println(gasto.getTipo());
+            System.out.println(gasto.getValor());
+            System.out.println(gasto.getFuncionario().getNome().trim());
+            System.out.println();
+        }
+    }
+}
+
+
+
+
+

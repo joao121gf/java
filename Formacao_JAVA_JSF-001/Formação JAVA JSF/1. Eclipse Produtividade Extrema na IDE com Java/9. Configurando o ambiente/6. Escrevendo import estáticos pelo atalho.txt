@@ -1,0 +1,25 @@
+Volte para o projeto fj15-erp(utilizado lá no capítulo 7, na qual fizemos as correções de pacote) e acrescente a classe de simulação TestaProcessamentoDeEntradaDeEstoque com um método main:
+
+
+public class TestaProcessamentoDeEntradaDeEstoque {
+
+    public static void main(String[] args) {
+        Produto p1 = new Produto("chocolate", TipoDeProduto.COMIDA, 2.40);
+        Produto p2 = new Produto("vinho", TipoDeProduto.COMIDA, 35.70);
+        Produto p3 = new Produto("manteiga", TipoDeProduto.COMIDA, 6.80);
+        Produto p4 = new Produto("água com gás", TipoDeProduto.COMIDA, 2.70);
+        Produto p5 = new Produto("frutas", TipoDeProduto.COMIDA, 30.00);
+
+        List<Produto> novosProdutos = Arrays.asList(p1,p2,p3,p4,p5);
+
+        new Estoque().getDisponiveis().addAll(novosProdutos);
+    }
+}
+
+
+
+Veja que fazemos uso do TipoDeProduto para criar um produto e, no nosso exemplo, eles são todos do tipo COMIDA. Como TipoDeProduto é uma enum, suas opções são tratadas como estáticas. Poderíamos fazer uso do import estático import static br.com.caelum.erp.TipoDeProduto.COMIDA;.
+
+Como toda tarefa repetida, deixamos pro Eclipse fazer. Abuse do atalho Ctrl + Shift + M para que ele escreva o import estático automático.
+
+Note que ele não fará, automaticamente, a substituição de cada utilização de TipoDeProduto.COMIDA, o que pode ser um pouco incômodo.

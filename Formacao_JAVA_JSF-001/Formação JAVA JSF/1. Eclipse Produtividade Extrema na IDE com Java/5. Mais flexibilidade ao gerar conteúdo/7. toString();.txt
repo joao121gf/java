@@ -1,0 +1,13 @@
+No nosso TesteImportador, dê uma olhada no forEach:
+
+for (Gasto gasto : list) {
+    System.out.println(gasto);
+}
+
+
+
+Remova o toString da classe Funcionario e gere novamente usando crl+3.
+
+Rode novamente a classe TesteImportador e veja o resultado.
+
+O que acontece quando regeramos o toString da classe Funcionario? O resultado do toString da classe Gasto é alterado? Por quê?

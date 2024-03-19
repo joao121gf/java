@@ -1,0 +1,27 @@
+Agora a dataNascimento está sublinhada em vermelho, pois essa variável não existe. Para criá-la aperte Ctrl + .(caractere ponto) para que o Eclipse mova o cursor para o erro mais próximo, ou seja, a dataNascimento, e então aperte Ctrl+1 para o Eclipse sugerir uma correção para esse erro. Uma das correções possíveis é criar uma variável local, então escolha Create local variable 'dataNascimento'.
+
+public static void main(String[] args) {
+    Calendar dataNascimento;
+    Funcionario funcionario = new Funcionario("José", 25, dataNascimento);
+}
+
+
+Repare que a IDE te deu a oportunidade de trocar o nome da variável e seu tipo, movendo entre as seleções com o tab. Agora é só inicializar a variável dataNascimento. Poderíamos simplesmente mover o cursor para a linha de cima e continuar o trabalho, mas a variável dataNascimento ainda está sublinhada de vermelho. Isso significa que temos outra oportunidade de usar o Ctrl+1.
+
+Aperte Ctrl+1 e escolha a primeira opção Initialize variable:
+
+
+Calendar dataNascimento = null;
+Funcionario funcionario = new Funcionario("José", 25, dataNascimento);
+
+
+Como o cursor já está no lugar certo, crie a data usando um GregorianCalendar. Para isso digite new Greg e selecione o construtor que recebe três inteiros, ano, mês e dia sem usar o mouse. Preencha esses valores com a ajuda do tab.
+
+Calendar dataNascimento = new GregorianCalendar(1985, 3, 18);
+Funcionario funcionario = new Funcionario("José", 25, dataNascimento);
+
+
+
+Note que não foi necessário abrir a classe Funcionario para descobrir que dataNascimento é um Calendar. Também não foi preciso fazer os imports de Calendar e do GregorianCalendar! Já estamos evitando erros!
+
+

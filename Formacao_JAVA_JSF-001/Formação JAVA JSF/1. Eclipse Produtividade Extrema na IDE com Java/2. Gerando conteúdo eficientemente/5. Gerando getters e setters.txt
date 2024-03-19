@@ -1,0 +1,9 @@
+Existe um item do menu para gerar os getters e setters chamado generate getters and setters. Para acessá-lo rapidamente basta fazer ctrl + 3 e começar a digitar qualquer parte do nome desse menu ou as suas iniciais. Por exemplo, você pode fazer ctrl + 3 getter (ou as iniciais ggas) e ele trará o menu correto.
+
+Ao acessar o menu, vai aparecer uma tela onde você pode selecionar quais serão os getters e setters desejados. Podemos usar as setas para cima e para baixo, e a barra de espaço para marcar os checkboxes. Se apertarmos + em um dos atributos podemos selecionar só o getter ou só o setter. Com o tab conseguimos navegar pelos botões e outras configurações dessa tela.
+
+Segurar o alt também mostra, assim como em qualquer outra aplicação, os atalhos que vão direto a um botão ou campo de texto. Nessa janela, por exemplo, se nossa intenção é selecionar todos os getters e setters, podemos simplesmente fazer alt + A.
+
+Ao apertar enter os getters e setters selecionados serão criados automaticamente.
+
+Crie mais um atributo booleano pagoEmDinheiro na classe Gasto e gere o getter e o setter, sem usar o mouse nem o menu anterior. Como você fez? É mais fácil que o menu?

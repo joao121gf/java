@@ -1,0 +1,8 @@
+Extraia a criação das duas datas para um método novo, selecionando as linhas:
+
+Calendar dataNascimento = Calendar.getInstance();
+dataNascimento.setTime(df.parse(dataNascTxt));
+
+
+e usando o alt + shift + M. Coloque um nome significativo no método, para manter a clareza.
+

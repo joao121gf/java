@@ -1,0 +1,16 @@
+Volte ao FiltradorDeGastosEspeciais e coloque um breakpoint na linha:
+
+    if(gasto.getValor() >= this.limite)
+
+
+
+Execute, agora, seu teste em modo Debug (alt + shift + D, T) e permita que o Eclipse mude para a perspectiva de Debug.
+
+Abra a view Display e digite nela:
+
+
+gasto.getFuncionario().getNome();
+
+
+Selecione esse texto inteiro e faça ctrl + shift + D para mostrar o nome do funcionário atrelado a esse gasto.
+

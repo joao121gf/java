@@ -1,0 +1,5 @@
+Sabemos que, internamente, o System.out.println chama o toString do objeto que mandamos imprimir. Mas em que classe o método toString é invocado?
+
+Abra a classe Principal, usando ctrl + shift + T . Vá até a linha onde é feita a impressão da variável funcionario. Tente encontrar em que local no código fonte do Java o método toString da classe Funcionario é invocado usando os atalhos F3, alt + seta para esquerda e alt + seta para direita.
+
+Caso o eclipse não mostre o código fonte do Java, será necessário indicar a localização da instalação do JDK, como explicado aqui.

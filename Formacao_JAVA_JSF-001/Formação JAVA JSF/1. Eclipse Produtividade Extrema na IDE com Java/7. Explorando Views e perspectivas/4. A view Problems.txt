@@ -1,0 +1,21 @@
+Crie uma classe chamada Problemas, e cole o código-fonte abaixo no seu Eclipse:
+
+public class Problemas {
+
+    private int umAtributo;
+
+    private void umMetodo() {
+        int numero = 12;
+
+        String nome = "Código";
+        nome = nome.concat(" muito bagunçado!");
+
+        int b = 0;
+        b++;
+    }
+}
+
+
+Esse código de péssima qualidade possui muitos problemas. O Eclipse pode te ajudar a identificar alguns deles.
+
+Abra a aba Problems (Ctrl + 3 > Problems), e diga quais problemas relacionados a essa classe aparecem nessa aba

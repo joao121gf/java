@@ -1,0 +1,1373 @@
+ 2023-03-05 01:08:22,300-INFO-Star folder analysis: C:\Formação JAVA JSF
+ 2023-03-05 01:08:22,546-INFO-Star folder analysis: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java
+ 2023-03-05 01:08:22,596-INFO-Find for video with extension: .mp4, .ts, .mpg, .mpeg, .avi, .mkv, .flv, .3gp, .rmvb, .webm, .vob, .ogv, .rrc, .gifv, .mng, .mov, .qt, .wmv, .yuv, .rm, .asf, .amv, .m4p, .m4v, .mp2, .mpe, .mpv, .m4v, .svi, .3g2, .mxf, .roq, .nsv, .f4v, .f4p, .f4a, .f4b
+ 2023-03-05 01:08:22,623-INFO-___Unselected: 2. Menos erros, mais produtividade.txt
+ 2023-03-05 01:08:22,624-INFO-___Unselected: 3. (Obrigatório)Instalação do Eclipse e do projeto.txt
+ 2023-03-05 01:08:22,627-INFO-___Unselected: 4. Digitando o método main.txt
+ 2023-03-05 01:08:22,628-INFO-___Unselected: 5. Criando um objeto do tipo Funcionario.txt
+ 2023-03-05 01:08:22,628-INFO-___Unselected: 6. Instanciando a data de nascimento.txt
+ 2023-03-05 01:08:22,628-INFO-___Unselected: 7. Impressão do funcionário.txt
+ 2023-03-05 01:08:22,629-INFO-Selected file: 1.Produtividade 3.1. Eclipse- Produtividade na IDE com Java- Aula 3 - Atividade 1 Melhorando a organização .ts
+ 2023-03-05 01:08:22,629-INFO-___Unselected: 2. Gerando conteúdo eficientemente.txt
+ 2023-03-05 01:08:22,631-INFO-___Unselected: 3. Criando a classe Gasto.txt
+ 2023-03-05 01:08:22,632-INFO-___Unselected: 4. Preenchendo a classe Gasto.txt
+ 2023-03-05 01:08:22,632-INFO-___Unselected: 5. Gerando getters e setters.txt
+ 2023-03-05 01:08:22,633-INFO-___Unselected: 6. Gerando o construtor.txt
+ 2023-03-05 01:08:22,636-INFO-___Unselected: 7. Sobrescrevendo o toString.txt
+ 2023-03-05 01:08:22,638-INFO-Selected file: 2.Produtividade 3.2. Eclipse- Produtividade na IDE com Java- Aula 4 - Atividade 1 Localizando de forma eficiente .ts
+ 2023-03-05 01:08:22,639-INFO-___Unselected: 2.Melhorando a organização.txt
+ 2023-03-05 01:08:22,640-INFO-___Unselected: 3. (Obrigatório)Novas Classes.txt
+ 2023-03-05 01:08:22,647-INFO-___Unselected: 4. Melhorando a legibilidade.txt
+ 2023-03-05 01:08:22,648-INFO-___Unselected: 5. Indentando sua classe.txt
+ 2023-03-05 01:08:22,650-INFO-___Unselected: 6. Renomeando variáveis.txt
+ 2023-03-05 01:08:22,654-INFO-___Unselected: 7. Movendo código.txt
+ 2023-03-05 01:08:22,655-INFO-___Unselected: 8. Extraindo métodos.txt
+ 2023-03-05 01:08:22,658-INFO-___Unselected: 9. Refatorando no eclipse.txt
+ 2023-03-05 01:08:22,659-INFO-___Unselected: 2. Encontrando toString.txt
+ 2023-03-05 01:08:22,662-INFO-___Unselected: 2. Mais flexibilidade ao gerar conteúdo.txt
+ 2023-03-05 01:08:22,664-INFO-___Unselected: 3. DOWNLOAD.txt
+ 2023-03-05 01:08:22,665-INFO-___Unselected: 4. Teste do Importador.txt
+ 2023-03-05 01:08:22,666-INFO-___Unselected: 5. Refatorando o Importador.txt
+ 2023-03-05 01:08:22,669-INFO-___Unselected: 6. Sobrescrevendo o equals e o hashcode.txt
+ 2023-03-05 01:08:22,671-INFO-___Unselected: 7. toString();.txt
+ 2023-03-05 01:08:22,672-INFO-___Unselected: 8. Extraindo classes.txt
+ 2023-03-05 01:08:22,675-INFO-___Unselected: 9. Adicionando Generics.txt
+ 2023-03-05 01:08:22,678-INFO-___Unselected: Download modulo 5 eclipse-5.zip
+ 2023-03-05 01:08:22,679-INFO-___Unselected: Download modulo 5 part 2 eclipse-5.zip
+ 2023-03-05 01:08:22,681-INFO-___Unselected: 2. Removendo herança com composição.txt
+ 2023-03-05 01:08:22,682-INFO-___Unselected: 3. Escrevendo Menos Código com Templates.txt
+ 2023-03-05 01:08:22,683-INFO-___Unselected: 4. Criando template do logger.txt
+ 2023-03-05 01:08:22,687-INFO-___Unselected: 6. Criando seu próprio template.txt
+ 2023-03-05 01:08:22,688-INFO-___Unselected: Download projeto do capitulo 6.zip
+ 2023-03-05 01:08:22,691-INFO-___Unselected: 2. Explorando Views e perspectivas.txt
+ 2023-03-05 01:08:22,694-INFO-___Unselected: 3. Visualizações e Perspectivas.txt
+ 2023-03-05 01:08:22,695-INFO-___Unselected: 4. A view Problems.txt
+ 2023-03-05 01:08:22,696-INFO-___Unselected: Download do projeto.zip
+ 2023-03-05 01:08:22,698-INFO-___Unselected: Explorando view e perspectivas - imagem 1 (Flat para Hierarchical).png
+ 2023-03-05 01:08:22,699-INFO-___Unselected: Explorando view e perspectivas - imagem 1 (pacote FLAT).png
+ 2023-03-05 01:08:22,703-INFO-___Unselected: Explorando view e perspectivas - imagem 3 compare-view.png
+ 2023-03-05 01:08:22,704-INFO-___Unselected: 2.1 Testando e Debugando sua aplicação debug-editor.png
+ 2023-03-05 01:08:22,707-INFO-___Unselected: 2.2 Testando e Debugando sua aplicação debug-variables.png
+ 2023-03-05 01:08:22,710-INFO-___Unselected: 2.3 Testando e Debugando sua aplicação debug-importa.png
+ 2023-03-05 01:08:22,711-INFO-___Unselected: 2. Testando e Debugando sua aplicação.txt
+ 2023-03-05 01:08:22,713-INFO-___Unselected: 3. Rodando o JUnit.txt
+ 2023-03-05 01:08:22,714-INFO-___Unselected: 4. Debugando sequência de Fibonacci.txt
+ 2023-03-05 01:08:22,716-INFO-___Unselected: 5. Debugando o código com atalhos.txt
+ 2023-03-05 01:08:22,719-INFO-___Unselected: 6. Utilizando o Display durante um debug.txt
+ 2023-03-05 01:08:22,722-INFO-___Unselected: 2. Configurando o ambiente.txt
+ 2023-03-05 01:08:22,725-INFO-___Unselected: 3. Clean Up no Save Actions do Eclipse.txt
+ 2023-03-05 01:08:22,726-INFO-___Unselected: 4. Criando o Clean Up do seu time.txt
+ 2023-03-05 01:08:22,727-INFO-___Unselected: 5. Ponto-e-vírgula automático no fim da linha.txt
+ 2023-03-05 01:08:22,728-INFO-___Unselected: 6. Escrevendo import estáticos pelo atalho.txt
+ 2023-03-05 01:08:22,730-INFO-___Unselected: 7. Imports no Favorites.txt
+ 2023-03-05 01:08:22,731-INFO-___Unselected: 8. Retirando Pacotes Indesejados.txt
+ 2023-03-05 01:08:22,732-INFO-___Unselected: 9. Atalhos customizados no Eclipse.txt
+ 2023-03-05 01:08:22,735-INFO-Selected file: Eclipse.na 1. Eclipse- Produtividade na IDE com Java- Aula 1 - Atividade 1 Menos erros, mais produtividade .ts
+ 2023-03-05 01:08:22,738-INFO-Selected file: Eclipse.na 2. Eclipse- Produtividade na IDE com Java- Aula 2 - Atividade 1 Gerando conteúdo eficientemente .ts
+ 2023-03-05 01:08:22,741-INFO-Selected file: Eclipse.na 4. Eclipse- Produtividade na IDE com Java- Aula 4 - Atividade 1 Localizando de forma eficiente .ts
+ 2023-03-05 01:08:22,742-INFO-Selected file: Eclipse.na 5. Eclipse- Produtividade na IDE com Java- Aula 5 - Atividade 1 Mais flexibilidade ao gerar conteúdo .ts
+ 2023-03-05 01:08:22,744-INFO-Selected file: Eclipse.na 6. Eclipse- Produtividade na IDE com Java- Aula 6 - Atividade 1 Escrevendo Menos Código com Templates .ts
+ 2023-03-05 01:08:22,745-INFO-Selected file: Eclipse.na 7. Eclipse- Produtividade na IDE com Java- Aula 7 - Atividade 1 Explorando Views e perspectivas .ts
+ 2023-03-05 01:08:22,746-INFO-Selected file: Eclipse.na 8. Eclipse- Produtividade na IDE com Java- Aula 8 - Atividade 1 Testando e Debugando sua aplicação .ts
+ 2023-03-05 01:08:22,748-INFO-Selected file: Eclipse.na 9. Eclipse- Produtividade na IDE com Java- Aula 9 - Atividade 1 Configurando o ambiente .ts
+ 2023-03-05 01:08:22,749-INFO-run ffprobe: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\1.Produtividade 3.1. Eclipse- Produtividade na IDE com Java- Aula 3 - Atividade 1 Melhorando a organização .ts
+ 2023-03-05 01:08:23,495-INFO-run ffprobe: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\2.Produtividade 3.2. Eclipse- Produtividade na IDE com Java- Aula 4 - Atividade 1 Localizando de forma eficiente .ts
+ 2023-03-05 01:08:23,737-INFO-run ffprobe: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 1. Eclipse- Produtividade na IDE com Java- Aula 1 - Atividade 1 Menos erros, mais produtividade .ts
+ 2023-03-05 01:08:24,269-INFO-run ffprobe: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 2. Eclipse- Produtividade na IDE com Java- Aula 2 - Atividade 1 Gerando conteúdo eficientemente .ts
+ 2023-03-05 01:08:24,671-INFO-run ffprobe: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 4. Eclipse- Produtividade na IDE com Java- Aula 4 - Atividade 1 Localizando de forma eficiente .ts
+ 2023-03-05 01:08:24,991-INFO-run ffprobe: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 5. Eclipse- Produtividade na IDE com Java- Aula 5 - Atividade 1 Mais flexibilidade ao gerar conteúdo .ts
+ 2023-03-05 01:08:25,348-INFO-run ffprobe: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 6. Eclipse- Produtividade na IDE com Java- Aula 6 - Atividade 1 Escrevendo Menos Código com Templates .ts
+ 2023-03-05 01:08:25,570-INFO-run ffprobe: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 7. Eclipse- Produtividade na IDE com Java- Aula 7 - Atividade 1 Explorando Views e perspectivas .ts
+ 2023-03-05 01:08:25,765-INFO-run ffprobe: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 8. Eclipse- Produtividade na IDE com Java- Aula 8 - Atividade 1 Testando e Debugando sua aplicação .ts
+ 2023-03-05 01:08:26,137-INFO-run ffprobe: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 9. Eclipse- Produtividade na IDE com Java- Aula 9 - Atividade 1 Configurando o ambiente .ts
+ 2023-03-05 01:08:26,513-INFO-parsing: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\1.Produtividade 3.1. Eclipse- Produtividade na IDE com Java- Aula 3 - Atividade 1 Melhorando a organização .ts
+ 2023-03-05 01:08:26,517-INFO-parsing: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\2.Produtividade 3.2. Eclipse- Produtividade na IDE com Java- Aula 4 - Atividade 1 Localizando de forma eficiente .ts
+ 2023-03-05 01:08:26,528-INFO-parsing: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 1. Eclipse- Produtividade na IDE com Java- Aula 1 - Atividade 1 Menos erros, mais produtividade .ts
+ 2023-03-05 01:08:26,530-INFO-parsing: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 2. Eclipse- Produtividade na IDE com Java- Aula 2 - Atividade 1 Gerando conteúdo eficientemente .ts
+ 2023-03-05 01:08:26,532-INFO-parsing: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 4. Eclipse- Produtividade na IDE com Java- Aula 4 - Atividade 1 Localizando de forma eficiente .ts
+ 2023-03-05 01:08:26,534-INFO-parsing: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 5. Eclipse- Produtividade na IDE com Java- Aula 5 - Atividade 1 Mais flexibilidade ao gerar conteúdo .ts
+ 2023-03-05 01:08:26,536-INFO-parsing: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 6. Eclipse- Produtividade na IDE com Java- Aula 6 - Atividade 1 Escrevendo Menos Código com Templates .ts
+ 2023-03-05 01:08:26,540-INFO-parsing: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 7. Eclipse- Produtividade na IDE com Java- Aula 7 - Atividade 1 Explorando Views e perspectivas .ts
+ 2023-03-05 01:08:26,543-INFO-parsing: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 8. Eclipse- Produtividade na IDE com Java- Aula 8 - Atividade 1 Testando e Debugando sua aplicação .ts
+ 2023-03-05 01:08:26,545-INFO-parsing: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 9. Eclipse- Produtividade na IDE com Java- Aula 9 - Atividade 1 Configurando o ambiente .ts
+ 2023-03-05 01:08:26,668-INFO-There are 10 videos to convert.
+ 2023-03-05 01:08:26,677-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\1.Produtividade 3.1. Eclipse- Produtividade na IDE com Java- Aula 3 - Atividade 1 Melhorando a organização .ts
+ 2023-03-05 01:08:26,677-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\1.Produtividade 3.1. Eclipse- Produtividade na IDE com Java- Aula 3 - Atividade 1 Melhorando a organização .ts
+ 2023-03-05 01:08:28,728-INFO-Done
+ 2023-03-05 01:08:28,803-INFO-There are 9 videos to convert.
+ 2023-03-05 01:08:28,805-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\2.Produtividade 3.2. Eclipse- Produtividade na IDE com Java- Aula 4 - Atividade 1 Localizando de forma eficiente .ts
+ 2023-03-05 01:08:28,807-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\2.Produtividade 3.2. Eclipse- Produtividade na IDE com Java- Aula 4 - Atividade 1 Localizando de forma eficiente .ts
+ 2023-03-05 01:08:30,771-INFO-Done
+ 2023-03-05 01:08:30,822-INFO-There are 8 videos to convert.
+ 2023-03-05 01:08:30,837-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 1. Eclipse- Produtividade na IDE com Java- Aula 1 - Atividade 1 Menos erros, mais produtividade .ts
+ 2023-03-05 01:08:30,848-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 1. Eclipse- Produtividade na IDE com Java- Aula 1 - Atividade 1 Menos erros, mais produtividade .ts
+ 2023-03-05 01:08:32,542-INFO-Done
+ 2023-03-05 01:08:32,682-INFO-There are 7 videos to convert.
+ 2023-03-05 01:08:32,732-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 2. Eclipse- Produtividade na IDE com Java- Aula 2 - Atividade 1 Gerando conteúdo eficientemente .ts
+ 2023-03-05 01:08:32,767-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 2. Eclipse- Produtividade na IDE com Java- Aula 2 - Atividade 1 Gerando conteúdo eficientemente .ts
+ 2023-03-05 01:08:44,545-INFO-Done
+ 2023-03-05 01:08:44,588-INFO-There are 6 videos to convert.
+ 2023-03-05 01:08:44,593-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 4. Eclipse- Produtividade na IDE com Java- Aula 4 - Atividade 1 Localizando de forma eficiente .ts
+ 2023-03-05 01:08:44,594-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 4. Eclipse- Produtividade na IDE com Java- Aula 4 - Atividade 1 Localizando de forma eficiente .ts
+ 2023-03-05 01:08:46,264-INFO-Done
+ 2023-03-05 01:08:46,710-INFO-There are 5 videos to convert.
+ 2023-03-05 01:08:46,713-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 5. Eclipse- Produtividade na IDE com Java- Aula 5 - Atividade 1 Mais flexibilidade ao gerar conteúdo .ts
+ 2023-03-05 01:08:46,714-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 5. Eclipse- Produtividade na IDE com Java- Aula 5 - Atividade 1 Mais flexibilidade ao gerar conteúdo .ts
+ 2023-03-05 01:08:49,657-INFO-Done
+ 2023-03-05 01:08:49,707-INFO-There are 4 videos to convert.
+ 2023-03-05 01:08:49,719-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 6. Eclipse- Produtividade na IDE com Java- Aula 6 - Atividade 1 Escrevendo Menos Código com Templates .ts
+ 2023-03-05 01:08:49,724-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 6. Eclipse- Produtividade na IDE com Java- Aula 6 - Atividade 1 Escrevendo Menos Código com Templates .ts
+ 2023-03-05 01:08:50,991-INFO-Done
+ 2023-03-05 01:08:51,147-INFO-There are 3 videos to convert.
+ 2023-03-05 01:08:51,150-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 7. Eclipse- Produtividade na IDE com Java- Aula 7 - Atividade 1 Explorando Views e perspectivas .ts
+ 2023-03-05 01:08:51,152-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 7. Eclipse- Produtividade na IDE com Java- Aula 7 - Atividade 1 Explorando Views e perspectivas .ts
+ 2023-03-05 01:08:56,086-INFO-Done
+ 2023-03-05 01:08:56,116-INFO-There are 2 videos to convert.
+ 2023-03-05 01:08:56,122-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 8. Eclipse- Produtividade na IDE com Java- Aula 8 - Atividade 1 Testando e Debugando sua aplicação .ts
+ 2023-03-05 01:08:56,123-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 8. Eclipse- Produtividade na IDE com Java- Aula 8 - Atividade 1 Testando e Debugando sua aplicação .ts
+ 2023-03-05 01:08:59,359-INFO-Done
+ 2023-03-05 01:08:59,412-INFO-There are 1 videos to convert.
+ 2023-03-05 01:08:59,415-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 9. Eclipse- Produtividade na IDE com Java- Aula 9 - Atividade 1 Configurando o ambiente .ts
+ 2023-03-05 01:08:59,416-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\1. Eclipse Produtividade Extrema na IDE com Java\Eclipse.na 9. Eclipse- Produtividade na IDE com Java- Aula 9 - Atividade 1 Configurando o ambiente .ts
+ 2023-03-05 01:09:05,810-INFO-Done
+ 2023-03-05 01:09:05,856-INFO-There are no videos to convert
+ 2023-03-05 01:09:05,934-INFO-Star folder analysis: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache
+ 2023-03-05 01:09:06,075-INFO-Find for video with extension: .mp4, .ts, .mpg, .mpeg, .avi, .mkv, .flv, .3gp, .rmvb, .webm, .vob, .ogv, .rrc, .gifv, .mng, .mov, .qt, .wmv, .yuv, .rm, .asf, .amv, .m4p, .m4v, .mp2, .mpe, .mpv, .m4v, .svi, .3g2, .mxf, .roq, .nsv, .f4v, .f4p, .f4a, .f4b
+ 2023-03-05 01:09:06,159-INFO-Selected file: 1.1  Aula 1 - Atividade 1 Introdução .ts
+ 2023-03-05 01:09:06,171-INFO-Selected file: 1.2  Aula 1 - Atividade 2 Melhorando nossa Área Administrativa .ts
+ 2023-03-05 01:09:06,177-INFO-Selected file: 1.3  Aula 1 - Atividade 3 Estilizando o Formulário .ts
+ 2023-03-05 01:09:06,182-INFO-Selected file: 1.4  Aula 1 - Atividade 4 Adicionando Menu de Navegação .ts
+ 2023-03-05 01:09:06,183-INFO-Selected file: 2.1  Aula 2 - Atividade 1 Conhecendo o Passthrough .ts
+ 2023-03-05 01:09:06,185-INFO-Selected file: 2.2  Aula 2 - Atividade 2 Criando o backend do Carrinho .ts
+ 2023-03-05 01:09:06,186-INFO-Selected file: 2.3  Aula 2 - Atividade 3 Adicionando página do carrinho .ts
+ 2023-03-05 01:09:06,187-INFO-Selected file: 2.4  Aula 2 - Atividade 4 Adicionando os itens do carrinho na sessão do usuário .ts
+ 2023-03-05 01:09:06,188-INFO-Selected file: 2.5  Aula 2 - Atividade 5 Calculando o total da compra .ts
+ 2023-03-05 01:09:06,189-INFO-Selected file: 3.1  Aula 3 - Atividade 1 Melhorando a tela do carrinho .ts
+ 2023-03-05 01:09:06,191-INFO-Selected file: 3.2  Aula 3 - Atividade 2 Cadastrando o usuário .ts
+ 2023-03-05 01:09:06,192-INFO-Selected file: 3.3  Aula 3 - Atividade 3 Salvando a compra .ts
+ 2023-03-05 01:09:06,193-INFO-Selected file: 3.4  Aula 3 - Atividade 4 Transformando os itens em JSON .ts
+ 2023-03-05 01:09:06,194-INFO-Selected file: 4.1  Aula 4 - Atividade 1 Utilizando o serviço de pagamento .ts
+ 2023-03-05 01:09:06,198-INFO-Selected file: 4.2  Aula 4 - Atividade 2 Utilizando JAX-RS para realizar o pagamento .ts
+ 2023-03-05 01:09:06,201-INFO-Selected file: 4.3  Aula 4 - Atividade 3 Criando serviço de pagamento .ts
+ 2023-03-05 01:09:06,202-INFO-Selected file: 4.4  Aula 4 - Atividade 4 Gerando um ID único para a compra .ts
+ 2023-03-05 01:09:06,203-INFO-Selected file: 4.5  Aula 4 - Atividade 5 Configurando a JAX-RS .ts
+ 2023-03-05 01:09:06,204-INFO-Selected file: 4.6  Aula 4 - Atividade 6 Consumindo serviços REST com JAX-RS .ts
+ 2023-03-05 01:09:06,205-INFO-Selected file: 4.7  Aula 4 - Atividade 7 Executando serviços Assincronamente .ts
+ 2023-03-05 01:09:06,206-INFO-Selected file: 4.8  Aula 4 - Atividade 8 Resumindo os conceitos .ts
+ 2023-03-05 01:09:06,208-INFO-Selected file: 5.1  Aula 5 - Atividade 1 Habilitando Cache de Segundo Nível .ts
+ 2023-03-05 01:09:06,209-INFO-Selected file: 5.2  Aula 5 - Atividade 2 Pensando sobre o que Cachear .ts
+ 2023-03-05 01:09:06,210-INFO-Selected file: 5.3  Aula 5 - Atividade 3 Mais algumas configurações de Cache .ts
+ 2023-03-05 01:09:06,214-INFO-Selected file: 5.4  Aula 5 - Atividade 4 Limpando o Cache .ts
+ 2023-03-05 01:09:06,215-INFO-Selected file: 5.5  Aula 5 - Atividade 5 Utilizando Cache na Página .ts
+ 2023-03-05 01:09:06,217-INFO-Selected file: 5.6  Aula 5 - Atividade 6 Encerramento .ts
+ 2023-03-05 01:09:06,218-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\1.1  Aula 1 - Atividade 1 Introdução .ts
+ 2023-03-05 01:09:06,498-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\1.2  Aula 1 - Atividade 2 Melhorando nossa Área Administrativa .ts
+ 2023-03-05 01:09:06,676-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\1.3  Aula 1 - Atividade 3 Estilizando o Formulário .ts
+ 2023-03-05 01:09:06,873-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\1.4  Aula 1 - Atividade 4 Adicionando Menu de Navegação .ts
+ 2023-03-05 01:09:07,077-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\2.1  Aula 2 - Atividade 1 Conhecendo o Passthrough .ts
+ 2023-03-05 01:09:07,268-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\2.2  Aula 2 - Atividade 2 Criando o backend do Carrinho .ts
+ 2023-03-05 01:09:08,129-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\2.3  Aula 2 - Atividade 3 Adicionando página do carrinho .ts
+ 2023-03-05 01:09:08,288-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\2.4  Aula 2 - Atividade 4 Adicionando os itens do carrinho na sessão do usuário .ts
+ 2023-03-05 01:09:08,524-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\2.5  Aula 2 - Atividade 5 Calculando o total da compra .ts
+ 2023-03-05 01:09:08,774-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\3.1  Aula 3 - Atividade 1 Melhorando a tela do carrinho .ts
+ 2023-03-05 01:09:09,463-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\3.2  Aula 3 - Atividade 2 Cadastrando o usuário .ts
+ 2023-03-05 01:09:09,739-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\3.3  Aula 3 - Atividade 3 Salvando a compra .ts
+ 2023-03-05 01:09:09,921-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\3.4  Aula 3 - Atividade 4 Transformando os itens em JSON .ts
+ 2023-03-05 01:09:10,086-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.1  Aula 4 - Atividade 1 Utilizando o serviço de pagamento .ts
+ 2023-03-05 01:09:10,259-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.2  Aula 4 - Atividade 2 Utilizando JAX-RS para realizar o pagamento .ts
+ 2023-03-05 01:09:10,455-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.3  Aula 4 - Atividade 3 Criando serviço de pagamento .ts
+ 2023-03-05 01:09:10,764-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.4  Aula 4 - Atividade 4 Gerando um ID único para a compra .ts
+ 2023-03-05 01:09:11,024-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.5  Aula 4 - Atividade 5 Configurando a JAX-RS .ts
+ 2023-03-05 01:09:11,392-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.6  Aula 4 - Atividade 6 Consumindo serviços REST com JAX-RS .ts
+ 2023-03-05 01:09:11,555-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.7  Aula 4 - Atividade 7 Executando serviços Assincronamente .ts
+ 2023-03-05 01:09:11,974-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.8  Aula 4 - Atividade 8 Resumindo os conceitos .ts
+ 2023-03-05 01:09:12,589-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.1  Aula 5 - Atividade 1 Habilitando Cache de Segundo Nível .ts
+ 2023-03-05 01:09:13,499-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.2  Aula 5 - Atividade 2 Pensando sobre o que Cachear .ts
+ 2023-03-05 01:09:14,345-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.3  Aula 5 - Atividade 3 Mais algumas configurações de Cache .ts
+ 2023-03-05 01:09:14,590-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.4  Aula 5 - Atividade 4 Limpando o Cache .ts
+ 2023-03-05 01:09:14,846-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.5  Aula 5 - Atividade 5 Utilizando Cache na Página .ts
+ 2023-03-05 01:09:15,073-INFO-run ffprobe: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.6  Aula 5 - Atividade 6 Encerramento .ts
+ 2023-03-05 01:09:15,235-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\1.1  Aula 1 - Atividade 1 Introdução .ts
+ 2023-03-05 01:09:15,236-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\1.2  Aula 1 - Atividade 2 Melhorando nossa Área Administrativa .ts
+ 2023-03-05 01:09:15,239-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\1.3  Aula 1 - Atividade 3 Estilizando o Formulário .ts
+ 2023-03-05 01:09:15,241-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\1.4  Aula 1 - Atividade 4 Adicionando Menu de Navegação .ts
+ 2023-03-05 01:09:15,243-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\2.1  Aula 2 - Atividade 1 Conhecendo o Passthrough .ts
+ 2023-03-05 01:09:15,244-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\2.2  Aula 2 - Atividade 2 Criando o backend do Carrinho .ts
+ 2023-03-05 01:09:15,245-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\2.3  Aula 2 - Atividade 3 Adicionando página do carrinho .ts
+ 2023-03-05 01:09:15,246-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\2.4  Aula 2 - Atividade 4 Adicionando os itens do carrinho na sessão do usuário .ts
+ 2023-03-05 01:09:15,247-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\2.5  Aula 2 - Atividade 5 Calculando o total da compra .ts
+ 2023-03-05 01:09:15,248-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\3.1  Aula 3 - Atividade 1 Melhorando a tela do carrinho .ts
+ 2023-03-05 01:09:15,249-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\3.2  Aula 3 - Atividade 2 Cadastrando o usuário .ts
+ 2023-03-05 01:09:15,252-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\3.3  Aula 3 - Atividade 3 Salvando a compra .ts
+ 2023-03-05 01:09:15,255-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\3.4  Aula 3 - Atividade 4 Transformando os itens em JSON .ts
+ 2023-03-05 01:09:15,257-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.1  Aula 4 - Atividade 1 Utilizando o serviço de pagamento .ts
+ 2023-03-05 01:09:15,258-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.2  Aula 4 - Atividade 2 Utilizando JAX-RS para realizar o pagamento .ts
+ 2023-03-05 01:09:15,259-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.3  Aula 4 - Atividade 3 Criando serviço de pagamento .ts
+ 2023-03-05 01:09:15,260-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.4  Aula 4 - Atividade 4 Gerando um ID único para a compra .ts
+ 2023-03-05 01:09:15,261-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.5  Aula 4 - Atividade 5 Configurando a JAX-RS .ts
+ 2023-03-05 01:09:15,263-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.6  Aula 4 - Atividade 6 Consumindo serviços REST com JAX-RS .ts
+ 2023-03-05 01:09:15,264-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.7  Aula 4 - Atividade 7 Executando serviços Assincronamente .ts
+ 2023-03-05 01:09:15,265-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.8  Aula 4 - Atividade 8 Resumindo os conceitos .ts
+ 2023-03-05 01:09:15,267-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.1  Aula 5 - Atividade 1 Habilitando Cache de Segundo Nível .ts
+ 2023-03-05 01:09:15,269-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.2  Aula 5 - Atividade 2 Pensando sobre o que Cachear .ts
+ 2023-03-05 01:09:15,272-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.3  Aula 5 - Atividade 3 Mais algumas configurações de Cache .ts
+ 2023-03-05 01:09:15,274-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.4  Aula 5 - Atividade 4 Limpando o Cache .ts
+ 2023-03-05 01:09:15,275-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.5  Aula 5 - Atividade 5 Utilizando Cache na Página .ts
+ 2023-03-05 01:09:15,276-INFO-parsing: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.6  Aula 5 - Atividade 6 Encerramento .ts
+ 2023-03-05 01:09:15,341-INFO-There are 27 videos to convert.
+ 2023-03-05 01:09:15,343-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\1.1  Aula 1 - Atividade 1 Introdução .ts
+ 2023-03-05 01:09:15,345-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\1.1  Aula 1 - Atividade 1 Introdução .ts
+ 2023-03-05 01:09:15,711-INFO-Done
+ 2023-03-05 01:09:15,836-INFO-There are 26 videos to convert.
+ 2023-03-05 01:09:15,869-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\1.2  Aula 1 - Atividade 2 Melhorando nossa Área Administrativa .ts
+ 2023-03-05 01:09:15,945-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\1.2  Aula 1 - Atividade 2 Melhorando nossa Área Administrativa .ts
+ 2023-03-05 01:09:18,329-INFO-Done
+ 2023-03-05 01:09:18,364-INFO-There are 25 videos to convert.
+ 2023-03-05 01:09:18,367-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\1.3  Aula 1 - Atividade 3 Estilizando o Formulário .ts
+ 2023-03-05 01:09:18,368-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\1.3  Aula 1 - Atividade 3 Estilizando o Formulário .ts
+ 2023-03-05 01:09:19,277-INFO-Done
+ 2023-03-05 01:09:19,316-INFO-There are 24 videos to convert.
+ 2023-03-05 01:09:19,319-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\1.4  Aula 1 - Atividade 4 Adicionando Menu de Navegação .ts
+ 2023-03-05 01:09:19,321-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\1.4  Aula 1 - Atividade 4 Adicionando Menu de Navegação .ts
+ 2023-03-05 01:09:21,703-INFO-Done
+ 2023-03-05 01:09:21,735-INFO-There are 23 videos to convert.
+ 2023-03-05 01:09:21,736-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\2.1  Aula 2 - Atividade 1 Conhecendo o Passthrough .ts
+ 2023-03-05 01:09:21,738-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\2.1  Aula 2 - Atividade 1 Conhecendo o Passthrough .ts
+ 2023-03-05 01:09:23,811-INFO-Done
+ 2023-03-05 01:09:23,932-INFO-There are 22 videos to convert.
+ 2023-03-05 01:09:23,934-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\2.2  Aula 2 - Atividade 2 Criando o backend do Carrinho .ts
+ 2023-03-05 01:09:23,935-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\2.2  Aula 2 - Atividade 2 Criando o backend do Carrinho .ts
+ 2023-03-05 01:09:26,611-INFO-Done
+ 2023-03-05 01:09:26,647-INFO-There are 21 videos to convert.
+ 2023-03-05 01:09:26,652-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\2.3  Aula 2 - Atividade 3 Adicionando página do carrinho .ts
+ 2023-03-05 01:09:26,652-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\2.3  Aula 2 - Atividade 3 Adicionando página do carrinho .ts
+ 2023-03-05 01:09:28,525-INFO-Done
+ 2023-03-05 01:09:28,565-INFO-There are 20 videos to convert.
+ 2023-03-05 01:09:28,569-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\2.4  Aula 2 - Atividade 4 Adicionando os itens do carrinho na sessão do usuário .ts
+ 2023-03-05 01:09:28,570-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\2.4  Aula 2 - Atividade 4 Adicionando os itens do carrinho na sessão do usuário .ts
+ 2023-03-05 01:09:29,903-INFO-Done
+ 2023-03-05 01:09:29,933-INFO-There are 19 videos to convert.
+ 2023-03-05 01:09:29,938-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\2.5  Aula 2 - Atividade 5 Calculando o total da compra .ts
+ 2023-03-05 01:09:29,939-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\2.5  Aula 2 - Atividade 5 Calculando o total da compra .ts
+ 2023-03-05 01:09:31,477-INFO-Done
+ 2023-03-05 01:09:31,508-INFO-There are 18 videos to convert.
+ 2023-03-05 01:09:31,509-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\3.1  Aula 3 - Atividade 1 Melhorando a tela do carrinho .ts
+ 2023-03-05 01:09:31,512-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\3.1  Aula 3 - Atividade 1 Melhorando a tela do carrinho .ts
+ 2023-03-05 01:09:33,276-INFO-Done
+ 2023-03-05 01:09:33,492-INFO-There are 17 videos to convert.
+ 2023-03-05 01:09:33,495-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\3.2  Aula 3 - Atividade 2 Cadastrando o usuário .ts
+ 2023-03-05 01:09:33,497-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\3.2  Aula 3 - Atividade 2 Cadastrando o usuário .ts
+ 2023-03-05 01:09:35,181-INFO-Done
+ 2023-03-05 01:09:35,214-INFO-There are 16 videos to convert.
+ 2023-03-05 01:09:35,216-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\3.3  Aula 3 - Atividade 3 Salvando a compra .ts
+ 2023-03-05 01:09:35,217-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\3.3  Aula 3 - Atividade 3 Salvando a compra .ts
+ 2023-03-05 01:09:37,107-INFO-Done
+ 2023-03-05 01:09:37,144-INFO-There are 15 videos to convert.
+ 2023-03-05 01:09:37,150-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\3.4  Aula 3 - Atividade 4 Transformando os itens em JSON .ts
+ 2023-03-05 01:09:37,153-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\3.4  Aula 3 - Atividade 4 Transformando os itens em JSON .ts
+ 2023-03-05 01:09:38,686-INFO-Done
+ 2023-03-05 01:09:38,719-INFO-There are 14 videos to convert.
+ 2023-03-05 01:09:38,722-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.1  Aula 4 - Atividade 1 Utilizando o serviço de pagamento .ts
+ 2023-03-05 01:09:38,723-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.1  Aula 4 - Atividade 1 Utilizando o serviço de pagamento .ts
+ 2023-03-05 01:09:40,965-INFO-Done
+ 2023-03-05 01:09:40,995-INFO-There are 13 videos to convert.
+ 2023-03-05 01:09:40,999-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.2  Aula 4 - Atividade 2 Utilizando JAX-RS para realizar o pagamento .ts
+ 2023-03-05 01:09:41,001-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.2  Aula 4 - Atividade 2 Utilizando JAX-RS para realizar o pagamento .ts
+ 2023-03-05 01:09:43,712-INFO-Done
+ 2023-03-05 01:09:43,743-INFO-There are 12 videos to convert.
+ 2023-03-05 01:09:43,745-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.3  Aula 4 - Atividade 3 Criando serviço de pagamento .ts
+ 2023-03-05 01:09:43,746-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.3  Aula 4 - Atividade 3 Criando serviço de pagamento .ts
+ 2023-03-05 01:09:46,825-INFO-Done
+ 2023-03-05 01:09:46,862-INFO-There are 11 videos to convert.
+ 2023-03-05 01:09:46,876-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.4  Aula 4 - Atividade 4 Gerando um ID único para a compra .ts
+ 2023-03-05 01:09:46,877-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.4  Aula 4 - Atividade 4 Gerando um ID único para a compra .ts
+ 2023-03-05 01:09:54,268-INFO-Done
+ 2023-03-05 01:09:54,299-INFO-There are 10 videos to convert.
+ 2023-03-05 01:09:54,302-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.5  Aula 4 - Atividade 5 Configurando a JAX-RS .ts
+ 2023-03-05 01:09:54,302-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.5  Aula 4 - Atividade 5 Configurando a JAX-RS .ts
+ 2023-03-05 01:09:57,409-INFO-Done
+ 2023-03-05 01:09:57,441-INFO-There are 9 videos to convert.
+ 2023-03-05 01:09:57,445-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.6  Aula 4 - Atividade 6 Consumindo serviços REST com JAX-RS .ts
+ 2023-03-05 01:09:57,445-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.6  Aula 4 - Atividade 6 Consumindo serviços REST com JAX-RS .ts
+ 2023-03-05 01:10:00,223-INFO-Done
+ 2023-03-05 01:10:00,256-INFO-There are 8 videos to convert.
+ 2023-03-05 01:10:00,259-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.7  Aula 4 - Atividade 7 Executando serviços Assincronamente .ts
+ 2023-03-05 01:10:00,261-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.7  Aula 4 - Atividade 7 Executando serviços Assincronamente .ts
+ 2023-03-05 01:10:03,072-INFO-Done
+ 2023-03-05 01:10:03,108-INFO-There are 7 videos to convert.
+ 2023-03-05 01:10:03,110-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.8  Aula 4 - Atividade 8 Resumindo os conceitos .ts
+ 2023-03-05 01:10:03,111-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\4.8  Aula 4 - Atividade 8 Resumindo os conceitos .ts
+ 2023-03-05 01:10:05,241-INFO-Done
+ 2023-03-05 01:10:05,296-INFO-There are 6 videos to convert.
+ 2023-03-05 01:10:05,300-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.1  Aula 5 - Atividade 1 Habilitando Cache de Segundo Nível .ts
+ 2023-03-05 01:10:05,301-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.1  Aula 5 - Atividade 1 Habilitando Cache de Segundo Nível .ts
+ 2023-03-05 01:10:11,237-INFO-Done
+ 2023-03-05 01:10:11,307-INFO-There are 5 videos to convert.
+ 2023-03-05 01:10:11,316-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.2  Aula 5 - Atividade 2 Pensando sobre o que Cachear .ts
+ 2023-03-05 01:10:11,320-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.2  Aula 5 - Atividade 2 Pensando sobre o que Cachear .ts
+ 2023-03-05 01:10:13,555-INFO-Done
+ 2023-03-05 01:10:13,588-INFO-There are 4 videos to convert.
+ 2023-03-05 01:10:13,590-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.3  Aula 5 - Atividade 3 Mais algumas configurações de Cache .ts
+ 2023-03-05 01:10:13,592-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.3  Aula 5 - Atividade 3 Mais algumas configurações de Cache .ts
+ 2023-03-05 01:10:14,582-INFO-Done
+ 2023-03-05 01:10:14,627-INFO-There are 3 videos to convert.
+ 2023-03-05 01:10:14,632-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.4  Aula 5 - Atividade 4 Limpando o Cache .ts
+ 2023-03-05 01:10:14,633-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.4  Aula 5 - Atividade 4 Limpando o Cache .ts
+ 2023-03-05 01:10:20,047-INFO-Done
+ 2023-03-05 01:10:20,143-INFO-There are 2 videos to convert.
+ 2023-03-05 01:10:20,226-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.5  Aula 5 - Atividade 5 Utilizando Cache na Página .ts
+ 2023-03-05 01:10:20,245-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.5  Aula 5 - Atividade 5 Utilizando Cache na Página .ts
+ 2023-03-05 01:10:27,850-INFO-Done
+ 2023-03-05 01:10:27,886-INFO-There are 1 videos to convert.
+ 2023-03-05 01:10:27,890-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.6  Aula 5 - Atividade 6 Encerramento .ts
+ 2023-03-05 01:10:27,891-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\10. Java EE parte 2 Sua loja online com HTML, REST e Cache\5.6  Aula 5 - Atividade 6 Encerramento .ts
+ 2023-03-05 01:10:28,644-INFO-Done
+ 2023-03-05 01:10:30,088-INFO-There are no videos to convert
+ 2023-03-05 01:10:30,272-INFO-Star folder analysis: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets
+ 2023-03-05 01:10:30,294-INFO-Find for video with extension: .mp4, .ts, .mpg, .mpeg, .avi, .mkv, .flv, .3gp, .rmvb, .webm, .vob, .ogv, .rrc, .gifv, .mng, .mov, .qt, .wmv, .yuv, .rm, .asf, .amv, .m4p, .m4v, .mp2, .mpe, .mpv, .m4v, .svi, .3g2, .mxf, .roq, .nsv, .f4v, .f4p, .f4a, .f4b
+ 2023-03-05 01:10:30,306-INFO-Selected file: 1.1  Aula 1 - Atividade 1 Overview .ts
+ 2023-03-05 01:10:30,307-INFO-Selected file: 1.2  Aula 1 - Atividade 2 Preparando o ambiente .ts
+ 2023-03-05 01:10:30,310-INFO-Selected file: 1.3  Aula 1 - Atividade 3 Disponibilizando livros JSON  de tecnolo.ts
+ 2023-03-05 01:10:30,311-INFO-Selected file: 1.6  Aula 1 - Atividade 6 Disponibilizando livros XML  de tecnolog.ts
+ 2023-03-05 01:10:30,320-INFO-Selected file: 1.9  Aula 1 - Atividade 9 Content negotiation .ts
+ 2023-03-05 01:10:30,324-INFO-Selected file: 2.1  Aula 2 - Atividade 1 Configurando mailsender .ts
+ 2023-03-05 01:10:30,326-INFO-Selected file: 2.3  Aula 2 - Atividade 3 Testando o envio de email .ts
+ 2023-03-05 01:10:30,328-INFO-Selected file: 2.6  Aula 2 - Atividade 6 Enviando e-mail assíncrono  de tecnologi.ts
+ 2023-03-05 01:10:30,332-INFO-Selected file: 2.7  Aula 2 - Atividade 7 Entendendo o message driven  de tecnolog.ts
+ 2023-03-05 01:10:30,335-INFO-Selected file: 2.11  Aula 2 - Atividade 11 Recebendo o e-mail assíncrono Parte 1  .ts
+ 2023-03-05 01:10:30,336-INFO-Selected file: 2.12  Aula 2 - Atividade 12 Recebendo o e-mail assíncrono Parte 2  .ts
+ 2023-03-05 01:10:30,337-INFO-Selected file: 3.1  Aula 3 - Atividade 1 Protegendo a administração da aplicação .ts
+ 2023-03-05 01:10:30,339-INFO-Selected file: 3.3  Aula 3 - Atividade 3 Criando a tela de login .ts
+ 2023-03-05 01:10:30,348-INFO-Selected file: 3.7  Aula 3 - Atividade 7 Configurando o JAAS no Wildfly  de tecno.ts
+ 2023-03-05 01:10:30,355-INFO-Selected file: 3.10  Aula 3 - Atividade 10 Exibindo demais dados do usuário  de te.ts
+ 2023-03-05 01:10:30,367-INFO-Selected file: 4.1  Aula 4 - Atividade 1 Criando o template da administração  de .ts
+ 2023-03-05 01:10:30,377-INFO-Selected file: 4.3  Aula 4 - Atividade 3 Passando parâmetros para o template  de .ts
+ 2023-03-05 01:10:30,382-INFO-Selected file: 4.5  Aula 4 - Atividade 5 Fazendo logout .ts
+ 2023-03-05 01:10:30,384-INFO-Selected file: 5.1  Aula 5 - Atividade 1 Criando promoções relâmpago  de tecnolog.ts
+ 2023-03-05 01:10:30,386-INFO-Selected file: 5.4  Aula 5 - Atividade 4 Criando cadastro de promoções  de tecnol.ts
+ 2023-03-05 01:10:30,387-INFO-Selected file: 5.6  Aula 5 - Atividade 6 Integrando a tela de promoções com Websocket - Alura - Cursos o.ts
+ 2023-03-05 01:10:30,388-INFO-Selected file: 5.8  Aula 5 - Atividade 8 Removendo usuários .ts
+ 2023-03-05 01:10:30,389-INFO-Selected file: 5.11  Aula 5 - Atividade 11 Ajustando template e segurança  de tecn.ts
+ 2023-03-05 01:10:30,391-INFO-Selected file: 5.13  Aula 5 - Atividade 13 Encerramento do curso .ts
+ 2023-03-05 01:10:30,393-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\1.1  Aula 1 - Atividade 1 Overview .ts
+ 2023-03-05 01:10:30,772-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\1.2  Aula 1 - Atividade 2 Preparando o ambiente .ts
+ 2023-03-05 01:10:31,073-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\1.3  Aula 1 - Atividade 3 Disponibilizando livros JSON  de tecnolo.ts
+ 2023-03-05 01:10:31,309-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\1.6  Aula 1 - Atividade 6 Disponibilizando livros XML  de tecnolog.ts
+ 2023-03-05 01:10:32,412-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\1.9  Aula 1 - Atividade 9 Content negotiation .ts
+ 2023-03-05 01:10:32,794-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.1  Aula 2 - Atividade 1 Configurando mailsender .ts
+ 2023-03-05 01:10:33,291-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.3  Aula 2 - Atividade 3 Testando o envio de email .ts
+ 2023-03-05 01:10:34,019-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.6  Aula 2 - Atividade 6 Enviando e-mail assíncrono  de tecnologi.ts
+ 2023-03-05 01:10:35,539-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.7  Aula 2 - Atividade 7 Entendendo o message driven  de tecnolog.ts
+ 2023-03-05 01:10:37,167-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.11  Aula 2 - Atividade 11 Recebendo o e-mail assíncrono Parte 1  .ts
+ 2023-03-05 01:10:38,822-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.12  Aula 2 - Atividade 12 Recebendo o e-mail assíncrono Parte 2  .ts
+ 2023-03-05 01:10:39,351-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\3.1  Aula 3 - Atividade 1 Protegendo a administração da aplicação .ts
+ 2023-03-05 01:10:39,548-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\3.3  Aula 3 - Atividade 3 Criando a tela de login .ts
+ 2023-03-05 01:10:39,910-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\3.7  Aula 3 - Atividade 7 Configurando o JAAS no Wildfly  de tecno.ts
+ 2023-03-05 01:10:40,448-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\3.10  Aula 3 - Atividade 10 Exibindo demais dados do usuário  de te.ts
+ 2023-03-05 01:10:41,297-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\4.1  Aula 4 - Atividade 1 Criando o template da administração  de .ts
+ 2023-03-05 01:10:41,529-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\4.3  Aula 4 - Atividade 3 Passando parâmetros para o template  de .ts
+ 2023-03-05 01:10:41,704-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\4.5  Aula 4 - Atividade 5 Fazendo logout .ts
+ 2023-03-05 01:10:41,895-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.1  Aula 5 - Atividade 1 Criando promoções relâmpago  de tecnolog.ts
+ 2023-03-05 01:10:42,104-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.4  Aula 5 - Atividade 4 Criando cadastro de promoções  de tecnol.ts
+ 2023-03-05 01:10:42,518-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.6  Aula 5 - Atividade 6 Integrando a tela de promoções com Websocket - Alura - Cursos o.ts
+ 2023-03-05 01:10:42,892-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.8  Aula 5 - Atividade 8 Removendo usuários .ts
+ 2023-03-05 01:10:43,163-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.11  Aula 5 - Atividade 11 Ajustando template e segurança  de tecn.ts
+ 2023-03-05 01:10:43,591-INFO-run ffprobe: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.13  Aula 5 - Atividade 13 Encerramento do curso .ts
+ 2023-03-05 01:10:43,822-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\1.1  Aula 1 - Atividade 1 Overview .ts
+ 2023-03-05 01:10:43,823-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\1.2  Aula 1 - Atividade 2 Preparando o ambiente .ts
+ 2023-03-05 01:10:43,827-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\1.3  Aula 1 - Atividade 3 Disponibilizando livros JSON  de tecnolo.ts
+ 2023-03-05 01:10:43,829-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\1.6  Aula 1 - Atividade 6 Disponibilizando livros XML  de tecnolog.ts
+ 2023-03-05 01:10:43,831-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\1.9  Aula 1 - Atividade 9 Content negotiation .ts
+ 2023-03-05 01:10:43,832-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.1  Aula 2 - Atividade 1 Configurando mailsender .ts
+ 2023-03-05 01:10:43,834-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.3  Aula 2 - Atividade 3 Testando o envio de email .ts
+ 2023-03-05 01:10:43,835-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.6  Aula 2 - Atividade 6 Enviando e-mail assíncrono  de tecnologi.ts
+ 2023-03-05 01:10:43,836-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.7  Aula 2 - Atividade 7 Entendendo o message driven  de tecnolog.ts
+ 2023-03-05 01:10:43,838-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.11  Aula 2 - Atividade 11 Recebendo o e-mail assíncrono Parte 1  .ts
+ 2023-03-05 01:10:43,841-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.12  Aula 2 - Atividade 12 Recebendo o e-mail assíncrono Parte 2  .ts
+ 2023-03-05 01:10:43,845-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\3.1  Aula 3 - Atividade 1 Protegendo a administração da aplicação .ts
+ 2023-03-05 01:10:43,846-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\3.3  Aula 3 - Atividade 3 Criando a tela de login .ts
+ 2023-03-05 01:10:43,848-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\3.7  Aula 3 - Atividade 7 Configurando o JAAS no Wildfly  de tecno.ts
+ 2023-03-05 01:10:43,849-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\3.10  Aula 3 - Atividade 10 Exibindo demais dados do usuário  de te.ts
+ 2023-03-05 01:10:43,851-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\4.1  Aula 4 - Atividade 1 Criando o template da administração  de .ts
+ 2023-03-05 01:10:43,852-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\4.3  Aula 4 - Atividade 3 Passando parâmetros para o template  de .ts
+ 2023-03-05 01:10:43,854-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\4.5  Aula 4 - Atividade 5 Fazendo logout .ts
+ 2023-03-05 01:10:43,857-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.1  Aula 5 - Atividade 1 Criando promoções relâmpago  de tecnolog.ts
+ 2023-03-05 01:10:43,861-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.4  Aula 5 - Atividade 4 Criando cadastro de promoções  de tecnol.ts
+ 2023-03-05 01:10:43,863-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.6  Aula 5 - Atividade 6 Integrando a tela de promoções com Websocket - Alura - Cursos o.ts
+ 2023-03-05 01:10:43,864-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.8  Aula 5 - Atividade 8 Removendo usuários .ts
+ 2023-03-05 01:10:43,865-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.11  Aula 5 - Atividade 11 Ajustando template e segurança  de tecn.ts
+ 2023-03-05 01:10:43,867-INFO-parsing: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.13  Aula 5 - Atividade 13 Encerramento do curso .ts
+ 2023-03-05 01:10:43,925-INFO-There are 24 videos to convert.
+ 2023-03-05 01:10:43,928-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\1.1  Aula 1 - Atividade 1 Overview .ts
+ 2023-03-05 01:10:43,929-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\1.1  Aula 1 - Atividade 1 Overview .ts
+ 2023-03-05 01:10:44,779-INFO-Done
+ 2023-03-05 01:10:44,812-INFO-There are 23 videos to convert.
+ 2023-03-05 01:10:44,817-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\1.2  Aula 1 - Atividade 2 Preparando o ambiente .ts
+ 2023-03-05 01:10:44,818-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\1.2  Aula 1 - Atividade 2 Preparando o ambiente .ts
+ 2023-03-05 01:10:45,623-INFO-Done
+ 2023-03-05 01:10:45,686-INFO-There are 22 videos to convert.
+ 2023-03-05 01:10:45,690-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\1.3  Aula 1 - Atividade 3 Disponibilizando livros JSON  de tecnolo.ts
+ 2023-03-05 01:10:45,692-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\1.3  Aula 1 - Atividade 3 Disponibilizando livros JSON  de tecnolo.ts
+ 2023-03-05 01:10:47,864-INFO-Done
+ 2023-03-05 01:10:48,110-INFO-There are 21 videos to convert.
+ 2023-03-05 01:10:48,115-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\1.6  Aula 1 - Atividade 6 Disponibilizando livros XML  de tecnolog.ts
+ 2023-03-05 01:10:48,117-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\1.6  Aula 1 - Atividade 6 Disponibilizando livros XML  de tecnolog.ts
+ 2023-03-05 01:10:51,818-INFO-Done
+ 2023-03-05 01:10:51,857-INFO-There are 20 videos to convert.
+ 2023-03-05 01:10:51,874-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\1.9  Aula 1 - Atividade 9 Content negotiation .ts
+ 2023-03-05 01:10:51,876-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\1.9  Aula 1 - Atividade 9 Content negotiation .ts
+ 2023-03-05 01:10:54,062-INFO-Done
+ 2023-03-05 01:10:54,094-INFO-There are 19 videos to convert.
+ 2023-03-05 01:10:54,096-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.1  Aula 2 - Atividade 1 Configurando mailsender .ts
+ 2023-03-05 01:10:54,097-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.1  Aula 2 - Atividade 1 Configurando mailsender .ts
+ 2023-03-05 01:10:56,418-INFO-Done
+ 2023-03-05 01:10:56,453-INFO-There are 18 videos to convert.
+ 2023-03-05 01:10:56,459-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.3  Aula 2 - Atividade 3 Testando o envio de email .ts
+ 2023-03-05 01:10:56,464-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.3  Aula 2 - Atividade 3 Testando o envio de email .ts
+ 2023-03-05 01:10:58,733-INFO-Done
+ 2023-03-05 01:10:58,955-INFO-There are 17 videos to convert.
+ 2023-03-05 01:10:58,961-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.6  Aula 2 - Atividade 6 Enviando e-mail assíncrono  de tecnologi.ts
+ 2023-03-05 01:10:58,962-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.6  Aula 2 - Atividade 6 Enviando e-mail assíncrono  de tecnologi.ts
+ 2023-03-05 01:11:04,912-INFO-Done
+ 2023-03-05 01:11:04,952-INFO-There are 16 videos to convert.
+ 2023-03-05 01:11:04,956-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.7  Aula 2 - Atividade 7 Entendendo o message driven  de tecnolog.ts
+ 2023-03-05 01:11:04,957-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.7  Aula 2 - Atividade 7 Entendendo o message driven  de tecnolog.ts
+ 2023-03-05 01:11:06,978-INFO-Done
+ 2023-03-05 01:11:07,011-INFO-There are 15 videos to convert.
+ 2023-03-05 01:11:07,016-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.11  Aula 2 - Atividade 11 Recebendo o e-mail assíncrono Parte 1  .ts
+ 2023-03-05 01:11:07,017-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.11  Aula 2 - Atividade 11 Recebendo o e-mail assíncrono Parte 1  .ts
+ 2023-03-05 01:11:10,018-INFO-Done
+ 2023-03-05 01:11:10,076-INFO-There are 14 videos to convert.
+ 2023-03-05 01:11:10,080-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.12  Aula 2 - Atividade 12 Recebendo o e-mail assíncrono Parte 2  .ts
+ 2023-03-05 01:11:10,081-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\2.12  Aula 2 - Atividade 12 Recebendo o e-mail assíncrono Parte 2  .ts
+ 2023-03-05 01:11:11,149-INFO-Done
+ 2023-03-05 01:11:11,184-INFO-There are 13 videos to convert.
+ 2023-03-05 01:11:11,190-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\3.1  Aula 3 - Atividade 1 Protegendo a administração da aplicação .ts
+ 2023-03-05 01:11:11,191-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\3.1  Aula 3 - Atividade 1 Protegendo a administração da aplicação .ts
+ 2023-03-05 01:11:13,668-INFO-Done
+ 2023-03-05 01:11:13,897-INFO-There are 12 videos to convert.
+ 2023-03-05 01:11:13,995-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\3.3  Aula 3 - Atividade 3 Criando a tela de login .ts
+ 2023-03-05 01:11:14,020-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\3.3  Aula 3 - Atividade 3 Criando a tela de login .ts
+ 2023-03-05 01:11:18,672-INFO-Done
+ 2023-03-05 01:11:18,873-INFO-There are 11 videos to convert.
+ 2023-03-05 01:11:18,895-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\3.7  Aula 3 - Atividade 7 Configurando o JAAS no Wildfly  de tecno.ts
+ 2023-03-05 01:11:18,896-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\3.7  Aula 3 - Atividade 7 Configurando o JAAS no Wildfly  de tecno.ts
+ 2023-03-05 01:11:23,881-INFO-Done
+ 2023-03-05 01:11:23,913-INFO-There are 10 videos to convert.
+ 2023-03-05 01:11:23,918-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\3.10  Aula 3 - Atividade 10 Exibindo demais dados do usuário  de te.ts
+ 2023-03-05 01:11:23,919-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\3.10  Aula 3 - Atividade 10 Exibindo demais dados do usuário  de te.ts
+ 2023-03-05 01:11:31,505-INFO-Done
+ 2023-03-05 01:11:31,542-INFO-There are 9 videos to convert.
+ 2023-03-05 01:11:31,544-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\4.1  Aula 4 - Atividade 1 Criando o template da administração  de .ts
+ 2023-03-05 01:11:31,546-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\4.1  Aula 4 - Atividade 1 Criando o template da administração  de .ts
+ 2023-03-05 01:11:36,209-INFO-Done
+ 2023-03-05 01:11:36,476-INFO-There are 8 videos to convert.
+ 2023-03-05 01:11:36,481-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\4.3  Aula 4 - Atividade 3 Passando parâmetros para o template  de .ts
+ 2023-03-05 01:11:36,482-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\4.3  Aula 4 - Atividade 3 Passando parâmetros para o template  de .ts
+ 2023-03-05 01:11:37,985-INFO-Done
+ 2023-03-05 01:11:38,017-INFO-There are 7 videos to convert.
+ 2023-03-05 01:11:38,021-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\4.5  Aula 4 - Atividade 5 Fazendo logout .ts
+ 2023-03-05 01:11:38,022-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\4.5  Aula 4 - Atividade 5 Fazendo logout .ts
+ 2023-03-05 01:11:42,236-INFO-Done
+ 2023-03-05 01:11:42,298-INFO-There are 6 videos to convert.
+ 2023-03-05 01:11:42,312-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.1  Aula 5 - Atividade 1 Criando promoções relâmpago  de tecnolog.ts
+ 2023-03-05 01:11:42,326-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.1  Aula 5 - Atividade 1 Criando promoções relâmpago  de tecnolog.ts
+ 2023-03-05 01:11:47,087-INFO-Done
+ 2023-03-05 01:11:47,121-INFO-There are 5 videos to convert.
+ 2023-03-05 01:11:47,131-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.4  Aula 5 - Atividade 4 Criando cadastro de promoções  de tecnol.ts
+ 2023-03-05 01:11:47,133-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.4  Aula 5 - Atividade 4 Criando cadastro de promoções  de tecnol.ts
+ 2023-03-05 01:11:49,966-INFO-Done
+ 2023-03-05 01:11:50,211-INFO-There are 4 videos to convert.
+ 2023-03-05 01:11:50,220-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.6  Aula 5 - Atividade 6 Integrando a tela de promoções com Websocket - Alura - Cursos o.ts
+ 2023-03-05 01:11:50,221-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.6  Aula 5 - Atividade 6 Integrando a tela de promoções com Websocket - Alura - Cursos o.ts
+ 2023-03-05 01:11:52,606-INFO-Done
+ 2023-03-05 01:11:52,656-INFO-There are 3 videos to convert.
+ 2023-03-05 01:11:52,667-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.8  Aula 5 - Atividade 8 Removendo usuários .ts
+ 2023-03-05 01:11:52,670-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.8  Aula 5 - Atividade 8 Removendo usuários .ts
+ 2023-03-05 01:11:53,547-INFO-Done
+ 2023-03-05 01:11:53,609-INFO-There are 2 videos to convert.
+ 2023-03-05 01:11:53,656-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.11  Aula 5 - Atividade 11 Ajustando template e segurança  de tecn.ts
+ 2023-03-05 01:11:53,665-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.11  Aula 5 - Atividade 11 Ajustando template e segurança  de tecn.ts
+ 2023-03-05 01:11:55,558-INFO-Done
+ 2023-03-05 01:11:55,592-INFO-There are 1 videos to convert.
+ 2023-03-05 01:11:55,593-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.13  Aula 5 - Atividade 13 Encerramento do curso .ts
+ 2023-03-05 01:11:55,593-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\11. Java EE parte 3 Finalizando sua loja com REST, JMS, JAAS e WebSockets\5.13  Aula 5 - Atividade 13 Encerramento do curso .ts
+ 2023-03-05 01:11:56,456-INFO-Done
+ 2023-03-05 01:11:56,509-INFO-There are no videos to convert
+ 2023-03-05 01:11:56,655-INFO-Star folder analysis: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web
+ 2023-03-05 01:11:56,682-INFO-Find for video with extension: .mp4, .ts, .mpg, .mpeg, .avi, .mkv, .flv, .3gp, .rmvb, .webm, .vob, .ogv, .rrc, .gifv, .mng, .mov, .qt, .wmv, .yuv, .rm, .asf, .amv, .m4p, .m4v, .mp2, .mpe, .mpv, .m4v, .svi, .3g2, .mxf, .roq, .nsv, .f4v, .f4p, .f4a, .f4b
+ 2023-03-05 01:11:56,818-INFO-Selected file: 1.1  Aula 1 - Atividade 1 Servlet API e fundamentos da Web .ts
+ 2023-03-05 01:11:56,892-INFO-Selected file: 2.1  Aula 2 - Atividade 1 Post e os métodos HTTP .ts
+ 2023-03-05 01:11:56,931-INFO-Selected file: 3.1  Aula 3 - Atividade 1 Algumas características da web .ts
+ 2023-03-05 01:11:56,956-INFO-Selected file: 5.1  Aula 5 - Atividade 1 Mantendo informações relativas ao usuário com cookies .ts
+ 2023-03-05 01:11:56,957-INFO-Selected file: 5.1  Aula 5 - Atividade 1 Mantendo informações relativas ao usuário com cookies _2.ts
+ 2023-03-05 01:11:56,958-INFO-Selected file: 6.1  Aula 6 - Atividade 1 Manipulando cookies existentes .ts
+ 2023-03-05 01:11:56,959-INFO-Selected file: 7.1  Aula 7 - Atividade 1 Mantendo informações no lado do servidor com session .ts
+ 2023-03-05 01:11:56,960-INFO-Selected file: 8.1  Aula 8 - Atividade 1 Mais sobre servlets .ts
+ 2023-03-05 01:11:56,962-INFO-Selected file: 9.1  Aula 9 - Atividade 1 Redirecionamento no client e server side .ts
+ 2023-03-05 01:11:56,963-INFO-Selected file: 10.1  Aula 10 - Atividade 1 Páginas dinâmicas .ts
+ 2023-03-05 01:11:56,964-INFO-Selected file: 11.1  Aula 11 - Atividade 1 Trabalhando com Taglibs .ts
+ 2023-03-05 01:11:56,967-INFO-Selected file: 12.1  Aula 12 - Atividade 1 Um padrão de controle .ts
+ 2023-03-05 01:11:56,968-INFO-Selected file: 13.1  Aula 13 - Atividade 1 Model View Controller .ts
+ 2023-03-05 01:11:56,969-INFO-run ffprobe: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\1.1  Aula 1 - Atividade 1 Servlet API e fundamentos da Web .ts
+ 2023-03-05 01:11:57,275-INFO-run ffprobe: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\2.1  Aula 2 - Atividade 1 Post e os métodos HTTP .ts
+ 2023-03-05 01:11:57,672-INFO-run ffprobe: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\3.1  Aula 3 - Atividade 1 Algumas características da web .ts
+ 2023-03-05 01:11:57,874-INFO-run ffprobe: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\5.1  Aula 5 - Atividade 1 Mantendo informações relativas ao usuário com cookies .ts
+ 2023-03-05 01:11:58,351-INFO-run ffprobe: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\5.1  Aula 5 - Atividade 1 Mantendo informações relativas ao usuário com cookies _2.ts
+ 2023-03-05 01:11:58,601-INFO-run ffprobe: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\6.1  Aula 6 - Atividade 1 Manipulando cookies existentes .ts
+ 2023-03-05 01:11:58,782-INFO-run ffprobe: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\7.1  Aula 7 - Atividade 1 Mantendo informações no lado do servidor com session .ts
+ 2023-03-05 01:11:59,088-INFO-run ffprobe: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\8.1  Aula 8 - Atividade 1 Mais sobre servlets .ts
+ 2023-03-05 01:11:59,517-INFO-run ffprobe: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\9.1  Aula 9 - Atividade 1 Redirecionamento no client e server side .ts
+ 2023-03-05 01:11:59,694-INFO-run ffprobe: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\10.1  Aula 10 - Atividade 1 Páginas dinâmicas .ts
+ 2023-03-05 01:11:59,866-INFO-run ffprobe: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\11.1  Aula 11 - Atividade 1 Trabalhando com Taglibs .ts
+ 2023-03-05 01:12:00,330-INFO-run ffprobe: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\12.1  Aula 12 - Atividade 1 Um padrão de controle .ts
+ 2023-03-05 01:12:01,227-INFO-run ffprobe: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\13.1  Aula 13 - Atividade 1 Model View Controller .ts
+ 2023-03-05 01:12:02,040-INFO-parsing: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\1.1  Aula 1 - Atividade 1 Servlet API e fundamentos da Web .ts
+ 2023-03-05 01:12:02,045-INFO-parsing: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\2.1  Aula 2 - Atividade 1 Post e os métodos HTTP .ts
+ 2023-03-05 01:12:02,046-INFO-parsing: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\3.1  Aula 3 - Atividade 1 Algumas características da web .ts
+ 2023-03-05 01:12:02,047-INFO-parsing: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\5.1  Aula 5 - Atividade 1 Mantendo informações relativas ao usuário com cookies .ts
+ 2023-03-05 01:12:02,048-INFO-parsing: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\5.1  Aula 5 - Atividade 1 Mantendo informações relativas ao usuário com cookies _2.ts
+ 2023-03-05 01:12:02,049-INFO-parsing: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\6.1  Aula 6 - Atividade 1 Manipulando cookies existentes .ts
+ 2023-03-05 01:12:02,050-INFO-parsing: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\7.1  Aula 7 - Atividade 1 Mantendo informações no lado do servidor com session .ts
+ 2023-03-05 01:12:02,051-INFO-parsing: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\8.1  Aula 8 - Atividade 1 Mais sobre servlets .ts
+ 2023-03-05 01:12:02,052-INFO-parsing: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\9.1  Aula 9 - Atividade 1 Redirecionamento no client e server side .ts
+ 2023-03-05 01:12:02,054-INFO-parsing: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\10.1  Aula 10 - Atividade 1 Páginas dinâmicas .ts
+ 2023-03-05 01:12:02,056-INFO-parsing: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\11.1  Aula 11 - Atividade 1 Trabalhando com Taglibs .ts
+ 2023-03-05 01:12:02,057-INFO-parsing: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\12.1  Aula 12 - Atividade 1 Um padrão de controle .ts
+ 2023-03-05 01:12:02,058-INFO-parsing: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\13.1  Aula 13 - Atividade 1 Model View Controller .ts
+ 2023-03-05 01:12:02,115-INFO-There are 13 videos to convert.
+ 2023-03-05 01:12:02,118-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\1.1  Aula 1 - Atividade 1 Servlet API e fundamentos da Web .ts
+ 2023-03-05 01:12:02,120-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\1.1  Aula 1 - Atividade 1 Servlet API e fundamentos da Web .ts
+ 2023-03-05 01:12:03,841-INFO-Done
+ 2023-03-05 01:12:03,908-INFO-There are 12 videos to convert.
+ 2023-03-05 01:12:03,912-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\2.1  Aula 2 - Atividade 1 Post e os métodos HTTP .ts
+ 2023-03-05 01:12:03,913-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\2.1  Aula 2 - Atividade 1 Post e os métodos HTTP .ts
+ 2023-03-05 01:12:06,690-INFO-Done
+ 2023-03-05 01:12:06,747-INFO-There are 11 videos to convert.
+ 2023-03-05 01:12:06,750-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\3.1  Aula 3 - Atividade 1 Algumas características da web .ts
+ 2023-03-05 01:12:06,751-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\3.1  Aula 3 - Atividade 1 Algumas características da web .ts
+ 2023-03-05 01:12:08,884-INFO-Done
+ 2023-03-05 01:12:09,002-INFO-There are 10 videos to convert.
+ 2023-03-05 01:12:09,006-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\5.1  Aula 5 - Atividade 1 Mantendo informações relativas ao usuário com cookies .ts
+ 2023-03-05 01:12:09,007-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\5.1  Aula 5 - Atividade 1 Mantendo informações relativas ao usuário com cookies .ts
+ 2023-03-05 01:12:12,152-INFO-Done
+ 2023-03-05 01:12:12,182-INFO-There are 9 videos to convert.
+ 2023-03-05 01:12:12,184-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\5.1  Aula 5 - Atividade 1 Mantendo informações relativas ao usuário com cookies _2.ts
+ 2023-03-05 01:12:12,186-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\5.1  Aula 5 - Atividade 1 Mantendo informações relativas ao usuário com cookies _2.ts
+ 2023-03-05 01:12:14,514-INFO-Done
+ 2023-03-05 01:12:14,546-INFO-There are 8 videos to convert.
+ 2023-03-05 01:12:14,548-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\6.1  Aula 6 - Atividade 1 Manipulando cookies existentes .ts
+ 2023-03-05 01:12:14,549-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\6.1  Aula 6 - Atividade 1 Manipulando cookies existentes .ts
+ 2023-03-05 01:12:16,376-INFO-Done
+ 2023-03-05 01:12:16,415-INFO-There are 7 videos to convert.
+ 2023-03-05 01:12:16,421-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\7.1  Aula 7 - Atividade 1 Mantendo informações no lado do servidor com session .ts
+ 2023-03-05 01:12:16,422-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\7.1  Aula 7 - Atividade 1 Mantendo informações no lado do servidor com session .ts
+ 2023-03-05 01:12:17,912-INFO-Done
+ 2023-03-05 01:12:17,971-INFO-There are 6 videos to convert.
+ 2023-03-05 01:12:17,974-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\8.1  Aula 8 - Atividade 1 Mais sobre servlets .ts
+ 2023-03-05 01:12:17,975-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\8.1  Aula 8 - Atividade 1 Mais sobre servlets .ts
+ 2023-03-05 01:12:19,923-INFO-Done
+ 2023-03-05 01:12:19,962-INFO-There are 5 videos to convert.
+ 2023-03-05 01:12:19,966-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\9.1  Aula 9 - Atividade 1 Redirecionamento no client e server side .ts
+ 2023-03-05 01:12:19,966-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\9.1  Aula 9 - Atividade 1 Redirecionamento no client e server side .ts
+ 2023-03-05 01:12:21,333-INFO-Done
+ 2023-03-05 01:12:21,367-INFO-There are 4 videos to convert.
+ 2023-03-05 01:12:21,369-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\10.1  Aula 10 - Atividade 1 Páginas dinâmicas .ts
+ 2023-03-05 01:12:21,369-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\10.1  Aula 10 - Atividade 1 Páginas dinâmicas .ts
+ 2023-03-05 01:12:22,447-INFO-Done
+ 2023-03-05 01:12:22,482-INFO-There are 3 videos to convert.
+ 2023-03-05 01:12:22,484-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\11.1  Aula 11 - Atividade 1 Trabalhando com Taglibs .ts
+ 2023-03-05 01:12:22,485-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\11.1  Aula 11 - Atividade 1 Trabalhando com Taglibs .ts
+ 2023-03-05 01:12:23,712-INFO-Done
+ 2023-03-05 01:12:23,741-INFO-There are 2 videos to convert.
+ 2023-03-05 01:12:23,746-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\12.1  Aula 12 - Atividade 1 Um padrão de controle .ts
+ 2023-03-05 01:12:23,747-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\12.1  Aula 12 - Atividade 1 Um padrão de controle .ts
+ 2023-03-05 01:12:25,768-INFO-Done
+ 2023-03-05 01:12:25,800-INFO-There are 1 videos to convert.
+ 2023-03-05 01:12:25,803-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\13.1  Aula 13 - Atividade 1 Model View Controller .ts
+ 2023-03-05 01:12:25,815-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\2. Servlets Fundamentos de Java na Web\13.1  Aula 13 - Atividade 1 Model View Controller .ts
+ 2023-03-05 01:12:27,019-INFO-Done
+ 2023-03-05 01:12:27,106-INFO-There are no videos to convert
+ 2023-03-05 01:12:27,222-INFO-Star folder analysis: C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP
+ 2023-03-05 01:12:27,235-INFO-Find for video with extension: .mp4, .ts, .mpg, .mpeg, .avi, .mkv, .flv, .3gp, .rmvb, .webm, .vob, .ogv, .rrc, .gifv, .mng, .mov, .qt, .wmv, .yuv, .rm, .asf, .amv, .m4p, .m4v, .mp2, .mpe, .mpv, .m4v, .svi, .3g2, .mxf, .roq, .nsv, .f4v, .f4p, .f4a, .f4b
+ 2023-03-05 01:12:27,239-INFO-Selected file: 1.1  Aula 1 - Atividade 1 Iterando sobre coleções .ts
+ 2023-03-05 01:12:27,240-INFO-Selected file: 2.1  Aula 2 - Atividade 1 Tomando decisões .ts
+ 2023-03-05 01:12:27,242-INFO-Selected file: 3.1  Aula 3 - Atividade 1 Montando URLs .ts
+ 2023-03-05 01:12:27,243-INFO-Selected file: 4.1  Aula 4 - Atividade 1 Formatando datas e números .ts
+ 2023-03-05 01:12:27,245-INFO-Selected file: 5.1  Aula 5 - Atividade 1 Exibindo mensagens internacionalizáveis .ts
+ 2023-03-05 01:12:27,250-INFO-Selected file: 6.1  Aula 6 - Atividade 1 Reutilizando páginas .ts
+ 2023-03-05 01:12:27,252-INFO-run ffprobe: C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\1.1  Aula 1 - Atividade 1 Iterando sobre coleções .ts
+ 2023-03-05 01:12:27,668-INFO-run ffprobe: C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\2.1  Aula 2 - Atividade 1 Tomando decisões .ts
+ 2023-03-05 01:12:28,180-INFO-run ffprobe: C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\3.1  Aula 3 - Atividade 1 Montando URLs .ts
+ 2023-03-05 01:12:28,486-INFO-run ffprobe: C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\4.1  Aula 4 - Atividade 1 Formatando datas e números .ts
+ 2023-03-05 01:12:28,733-INFO-run ffprobe: C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\5.1  Aula 5 - Atividade 1 Exibindo mensagens internacionalizáveis .ts
+ 2023-03-05 01:12:29,288-INFO-run ffprobe: C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\6.1  Aula 6 - Atividade 1 Reutilizando páginas .ts
+ 2023-03-05 01:12:29,541-INFO-parsing: C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\1.1  Aula 1 - Atividade 1 Iterando sobre coleções .ts
+ 2023-03-05 01:12:29,543-INFO-parsing: C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\2.1  Aula 2 - Atividade 1 Tomando decisões .ts
+ 2023-03-05 01:12:29,545-INFO-parsing: C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\3.1  Aula 3 - Atividade 1 Montando URLs .ts
+ 2023-03-05 01:12:29,547-INFO-parsing: C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\4.1  Aula 4 - Atividade 1 Formatando datas e números .ts
+ 2023-03-05 01:12:29,549-INFO-parsing: C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\5.1  Aula 5 - Atividade 1 Exibindo mensagens internacionalizáveis .ts
+ 2023-03-05 01:12:29,551-INFO-parsing: C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\6.1  Aula 6 - Atividade 1 Reutilizando páginas .ts
+ 2023-03-05 01:12:29,642-INFO-There are 6 videos to convert.
+ 2023-03-05 01:12:29,652-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\1.1  Aula 1 - Atividade 1 Iterando sobre coleções .ts
+ 2023-03-05 01:12:29,654-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\1.1  Aula 1 - Atividade 1 Iterando sobre coleções .ts
+ 2023-03-05 01:12:32,249-INFO-Done
+ 2023-03-05 01:12:32,296-INFO-There are 5 videos to convert.
+ 2023-03-05 01:12:32,299-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\2.1  Aula 2 - Atividade 1 Tomando decisões .ts
+ 2023-03-05 01:12:32,303-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\2.1  Aula 2 - Atividade 1 Tomando decisões .ts
+ 2023-03-05 01:12:33,082-INFO-Done
+ 2023-03-05 01:12:33,130-INFO-There are 4 videos to convert.
+ 2023-03-05 01:12:33,134-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\3.1  Aula 3 - Atividade 1 Montando URLs .ts
+ 2023-03-05 01:12:33,137-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\3.1  Aula 3 - Atividade 1 Montando URLs .ts
+ 2023-03-05 01:12:33,926-INFO-Done
+ 2023-03-05 01:12:33,968-INFO-There are 3 videos to convert.
+ 2023-03-05 01:12:33,973-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\4.1  Aula 4 - Atividade 1 Formatando datas e números .ts
+ 2023-03-05 01:12:33,975-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\4.1  Aula 4 - Atividade 1 Formatando datas e números .ts
+ 2023-03-05 01:12:35,125-INFO-Done
+ 2023-03-05 01:12:35,167-INFO-There are 2 videos to convert.
+ 2023-03-05 01:12:35,173-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\5.1  Aula 5 - Atividade 1 Exibindo mensagens internacionalizáveis .ts
+ 2023-03-05 01:12:35,175-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\5.1  Aula 5 - Atividade 1 Exibindo mensagens internacionalizáveis .ts
+ 2023-03-05 01:12:38,084-INFO-Done
+ 2023-03-05 01:12:38,129-INFO-There are 1 videos to convert.
+ 2023-03-05 01:12:38,132-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\6.1  Aula 6 - Atividade 1 Reutilizando páginas .ts
+ 2023-03-05 01:12:38,133-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\3. Java e JSTL Tags para facilitar o desenvolvimento JSP\6.1  Aula 6 - Atividade 1 Reutilizando páginas .ts
+ 2023-03-05 01:12:39,493-INFO-Done
+ 2023-03-05 01:12:39,540-INFO-There are no videos to convert
+ 2023-03-05 01:12:39,610-INFO-Star folder analysis: C:\Formação JAVA JSF\4. EJB O poder da Java EE
+ 2023-03-05 01:12:39,631-INFO-Find for video with extension: .mp4, .ts, .mpg, .mpeg, .avi, .mkv, .flv, .3gp, .rmvb, .webm, .vob, .ogv, .rrc, .gifv, .mng, .mov, .qt, .wmv, .yuv, .rm, .asf, .amv, .m4p, .m4v, .mp2, .mpe, .mpv, .m4v, .svi, .3g2, .mxf, .roq, .nsv, .f4v, .f4p, .f4a, .f4b
+ 2023-03-05 01:12:39,662-INFO-Selected file: 1  Aula 1 - Atividade 1 Introdução aos Enterprise Java Beans .ts
+ 2023-03-05 01:12:39,679-INFO-Selected file: 2  Aula 2 - Atividade 1 Ciclo de vida dos Session Beans .ts
+ 2023-03-05 01:12:39,681-INFO-Selected file: 3  Aula 3 - Atividade 1 Integração do JPA com Pool e DataSource .ts
+ 2023-03-05 01:12:39,683-INFO-Selected file: 4  Aula 4 - Atividade 1 Gerenciamento de Transações com JTA .ts
+ 2023-03-05 01:12:39,684-INFO-Selected file: 5  Aula 5 - Atividade 1 Lidando com Exceções .ts
+ 2023-03-05 01:12:39,685-INFO-Selected file: 6  Aula 6 - Atividade 1 Novos serviços com Interceptadores .ts
+ 2023-03-05 01:12:39,687-INFO-Selected file: 7  Aula 7 - Atividade 1 Integração com Web Services .ts
+ 2023-03-05 01:12:39,688-INFO-Selected file: 8  Aula 8 - Atividade 1 Agendamento e EAR .ts
+ 2023-03-05 01:12:39,689-INFO-Selected file: 021.1 1.1  Aula 1 - Atividade 1 Introdução nova versão .ts
+ 2023-03-05 01:12:39,695-INFO-Selected file: 033.1 1.3  Aula 1 - Atividade 3 Do Java EE ao Jakarta EE nova versão  .ts
+ 2023-03-05 01:12:39,697-INFO-Selected file: 045.1 1.5  Aula 1 - Atividade 5 Usando a API do Jakarta EE nova versão  .ts
+ 2023-03-05 01:12:39,698-INFO-Selected file: 062.2 2.2  Aula 2 - Atividade 2 Conhecendo o Enterprise JavaBeans (EJB) nova versão  .ts
+ 2023-03-05 01:12:39,699-INFO-Selected file: 074.2 2.4  Aula 2 - Atividade 4 Criando o nosso primeiro EJB nova versão  .ts
+ 2023-03-05 01:12:39,701-INFO-Selected file: 093.3 3.3  Aula 3 - Atividade 3 Trabalhando com banco de dados usando JPA nova versão  .ts
+ 2023-03-05 01:12:39,702-INFO-Selected file: 107.3 3.7  Aula 3 - Atividade 7 Criando o Datasource nova versão  .ts
+ 2023-03-05 01:12:39,703-INFO-Selected file: 119.3 3.9  Aula 3 - Atividade 9 Inserindo e-mails nova versão  .ts
+ 2023-03-05 01:12:39,705-INFO-Selected file: 132.4 4.2  Aula 4 - Atividade 2 Conhecendo o JAX-RS nova versão  .ts
+ 2023-03-05 01:12:39,707-INFO-Selected file: 144.4 4.4  Aula 4 - Atividade 4 Configurando o context-root nova versão  .ts
+ 2023-03-05 01:12:39,712-INFO-Selected file: 162.5 5.2  Aula 5 - Atividade 2 Criando o job de envio de e-mai nova versão l .ts
+ 2023-03-05 01:12:39,716-INFO-Selected file: 174.5 5.4  Aula 5 - Atividade 4 Usando Singleton nova versão  .ts
+ 2023-03-05 01:12:39,718-INFO-Selected file: 192.6 6.2  Aula 6 - Atividade 2 Conhecendo o JMS nova versão  .ts
+ 2023-03-05 01:12:39,719-INFO-Selected file: 204.6 6.4  Aula 6 - Atividade 4 Criando Produce nova versão  .ts
+ 2023-03-05 01:12:39,721-INFO-Selected file: 216.6 6.6  Aula 6 - Atividade 6 Criando Consumer nova versão .ts
+ 2023-03-05 01:12:39,722-INFO-Selected file: 232.7 7.2  Aula 7 - Atividade 2 Trabalhando com Transações CMT nova versão .ts
+ 2023-03-05 01:12:39,723-INFO-Selected file: 243.7 7.3  Aula 7 - Atividade 3 Trabalhando com Transações BMT nova versão .ts
+ 2023-03-05 01:12:39,727-INFO-Selected file: 258.7 7.8  Aula 7 - Atividade 8 Conclusão nova versão .ts
+ 2023-03-05 01:12:39,729-INFO-___Unselected: 1750-jakartaee-criando_scheduler_singleton.zip
+ 2023-03-05 01:12:39,730-INFO-___Unselected: 1750-jakartaee-inserindo_email.zip
+ 2023-03-05 01:12:39,732-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\1  Aula 1 - Atividade 1 Introdução aos Enterprise Java Beans .ts
+ 2023-03-05 01:12:40,657-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\2  Aula 2 - Atividade 1 Ciclo de vida dos Session Beans .ts
+ 2023-03-05 01:12:41,004-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\3  Aula 3 - Atividade 1 Integração do JPA com Pool e DataSource .ts
+ 2023-03-05 01:12:41,700-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\4  Aula 4 - Atividade 1 Gerenciamento de Transações com JTA .ts
+ 2023-03-05 01:12:42,057-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\5  Aula 5 - Atividade 1 Lidando com Exceções .ts
+ 2023-03-05 01:12:42,475-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\6  Aula 6 - Atividade 1 Novos serviços com Interceptadores .ts
+ 2023-03-05 01:12:42,949-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\7  Aula 7 - Atividade 1 Integração com Web Services .ts
+ 2023-03-05 01:12:43,230-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\8  Aula 8 - Atividade 1 Agendamento e EAR .ts
+ 2023-03-05 01:12:43,588-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\021.1 1.1  Aula 1 - Atividade 1 Introdução nova versão .ts
+ 2023-03-05 01:12:44,010-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\033.1 1.3  Aula 1 - Atividade 3 Do Java EE ao Jakarta EE nova versão  .ts
+ 2023-03-05 01:12:44,326-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\045.1 1.5  Aula 1 - Atividade 5 Usando a API do Jakarta EE nova versão  .ts
+ 2023-03-05 01:12:44,756-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\062.2 2.2  Aula 2 - Atividade 2 Conhecendo o Enterprise JavaBeans (EJB) nova versão  .ts
+ 2023-03-05 01:12:45,144-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\074.2 2.4  Aula 2 - Atividade 4 Criando o nosso primeiro EJB nova versão  .ts
+ 2023-03-05 01:12:45,433-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\093.3 3.3  Aula 3 - Atividade 3 Trabalhando com banco de dados usando JPA nova versão  .ts
+ 2023-03-05 01:12:45,842-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\107.3 3.7  Aula 3 - Atividade 7 Criando o Datasource nova versão  .ts
+ 2023-03-05 01:12:46,351-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\119.3 3.9  Aula 3 - Atividade 9 Inserindo e-mails nova versão  .ts
+ 2023-03-05 01:12:46,606-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\132.4 4.2  Aula 4 - Atividade 2 Conhecendo o JAX-RS nova versão  .ts
+ 2023-03-05 01:12:47,179-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\144.4 4.4  Aula 4 - Atividade 4 Configurando o context-root nova versão  .ts
+ 2023-03-05 01:12:47,452-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\162.5 5.2  Aula 5 - Atividade 2 Criando o job de envio de e-mai nova versão l .ts
+ 2023-03-05 01:12:48,095-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\174.5 5.4  Aula 5 - Atividade 4 Usando Singleton nova versão  .ts
+ 2023-03-05 01:12:48,536-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\192.6 6.2  Aula 6 - Atividade 2 Conhecendo o JMS nova versão  .ts
+ 2023-03-05 01:12:48,999-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\204.6 6.4  Aula 6 - Atividade 4 Criando Produce nova versão  .ts
+ 2023-03-05 01:12:49,269-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\216.6 6.6  Aula 6 - Atividade 6 Criando Consumer nova versão .ts
+ 2023-03-05 01:12:49,474-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\232.7 7.2  Aula 7 - Atividade 2 Trabalhando com Transações CMT nova versão .ts
+ 2023-03-05 01:12:49,813-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\243.7 7.3  Aula 7 - Atividade 3 Trabalhando com Transações BMT nova versão .ts
+ 2023-03-05 01:12:50,290-INFO-run ffprobe: C:\Formação JAVA JSF\4. EJB O poder da Java EE\258.7 7.8  Aula 7 - Atividade 8 Conclusão nova versão .ts
+ 2023-03-05 01:12:50,762-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\1  Aula 1 - Atividade 1 Introdução aos Enterprise Java Beans .ts
+ 2023-03-05 01:12:50,772-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\2  Aula 2 - Atividade 1 Ciclo de vida dos Session Beans .ts
+ 2023-03-05 01:12:50,784-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\3  Aula 3 - Atividade 1 Integração do JPA com Pool e DataSource .ts
+ 2023-03-05 01:12:50,789-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\4  Aula 4 - Atividade 1 Gerenciamento de Transações com JTA .ts
+ 2023-03-05 01:12:50,791-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\5  Aula 5 - Atividade 1 Lidando com Exceções .ts
+ 2023-03-05 01:12:50,795-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\6  Aula 6 - Atividade 1 Novos serviços com Interceptadores .ts
+ 2023-03-05 01:12:50,796-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\7  Aula 7 - Atividade 1 Integração com Web Services .ts
+ 2023-03-05 01:12:50,798-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\8  Aula 8 - Atividade 1 Agendamento e EAR .ts
+ 2023-03-05 01:12:50,799-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\021.1 1.1  Aula 1 - Atividade 1 Introdução nova versão .ts
+ 2023-03-05 01:12:50,800-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\033.1 1.3  Aula 1 - Atividade 3 Do Java EE ao Jakarta EE nova versão  .ts
+ 2023-03-05 01:12:50,804-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\045.1 1.5  Aula 1 - Atividade 5 Usando a API do Jakarta EE nova versão  .ts
+ 2023-03-05 01:12:50,811-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\062.2 2.2  Aula 2 - Atividade 2 Conhecendo o Enterprise JavaBeans (EJB) nova versão  .ts
+ 2023-03-05 01:12:50,815-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\074.2 2.4  Aula 2 - Atividade 4 Criando o nosso primeiro EJB nova versão  .ts
+ 2023-03-05 01:12:50,816-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\093.3 3.3  Aula 3 - Atividade 3 Trabalhando com banco de dados usando JPA nova versão  .ts
+ 2023-03-05 01:12:50,818-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\107.3 3.7  Aula 3 - Atividade 7 Criando o Datasource nova versão  .ts
+ 2023-03-05 01:12:50,823-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\119.3 3.9  Aula 3 - Atividade 9 Inserindo e-mails nova versão  .ts
+ 2023-03-05 01:12:50,825-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\132.4 4.2  Aula 4 - Atividade 2 Conhecendo o JAX-RS nova versão  .ts
+ 2023-03-05 01:12:50,826-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\144.4 4.4  Aula 4 - Atividade 4 Configurando o context-root nova versão  .ts
+ 2023-03-05 01:12:50,831-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\162.5 5.2  Aula 5 - Atividade 2 Criando o job de envio de e-mai nova versão l .ts
+ 2023-03-05 01:12:50,833-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\174.5 5.4  Aula 5 - Atividade 4 Usando Singleton nova versão  .ts
+ 2023-03-05 01:12:50,834-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\192.6 6.2  Aula 6 - Atividade 2 Conhecendo o JMS nova versão  .ts
+ 2023-03-05 01:12:50,842-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\204.6 6.4  Aula 6 - Atividade 4 Criando Produce nova versão  .ts
+ 2023-03-05 01:12:50,842-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\216.6 6.6  Aula 6 - Atividade 6 Criando Consumer nova versão .ts
+ 2023-03-05 01:12:50,843-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\232.7 7.2  Aula 7 - Atividade 2 Trabalhando com Transações CMT nova versão .ts
+ 2023-03-05 01:12:50,844-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\243.7 7.3  Aula 7 - Atividade 3 Trabalhando com Transações BMT nova versão .ts
+ 2023-03-05 01:12:50,845-INFO-parsing: C:\Formação JAVA JSF\4. EJB O poder da Java EE\258.7 7.8  Aula 7 - Atividade 8 Conclusão nova versão .ts
+ 2023-03-05 01:12:50,972-INFO-There are 26 videos to convert.
+ 2023-03-05 01:12:50,975-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\1  Aula 1 - Atividade 1 Introdução aos Enterprise Java Beans .ts
+ 2023-03-05 01:12:50,978-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\1  Aula 1 - Atividade 1 Introdução aos Enterprise Java Beans .ts
+ 2023-03-05 01:12:53,526-INFO-Done
+ 2023-03-05 01:12:53,572-INFO-There are 25 videos to convert.
+ 2023-03-05 01:12:53,578-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\2  Aula 2 - Atividade 1 Ciclo de vida dos Session Beans .ts
+ 2023-03-05 01:12:53,579-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\2  Aula 2 - Atividade 1 Ciclo de vida dos Session Beans .ts
+ 2023-03-05 01:12:56,838-INFO-Done
+ 2023-03-05 01:12:56,893-INFO-There are 24 videos to convert.
+ 2023-03-05 01:12:56,895-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\3  Aula 3 - Atividade 1 Integração do JPA com Pool e DataSource .ts
+ 2023-03-05 01:12:56,896-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\3  Aula 3 - Atividade 1 Integração do JPA com Pool e DataSource .ts
+ 2023-03-05 01:13:00,493-INFO-Done
+ 2023-03-05 01:13:00,532-INFO-There are 23 videos to convert.
+ 2023-03-05 01:13:00,539-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\4  Aula 4 - Atividade 1 Gerenciamento de Transações com JTA .ts
+ 2023-03-05 01:13:00,540-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\4  Aula 4 - Atividade 1 Gerenciamento de Transações com JTA .ts
+ 2023-03-05 01:13:11,415-INFO-Done
+ 2023-03-05 01:13:11,460-INFO-There are 22 videos to convert.
+ 2023-03-05 01:13:11,472-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\5  Aula 5 - Atividade 1 Lidando com Exceções .ts
+ 2023-03-05 01:13:11,475-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\5  Aula 5 - Atividade 1 Lidando com Exceções .ts
+ 2023-03-05 01:13:12,926-INFO-Done
+ 2023-03-05 01:13:12,971-INFO-There are 21 videos to convert.
+ 2023-03-05 01:13:12,978-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\6  Aula 6 - Atividade 1 Novos serviços com Interceptadores .ts
+ 2023-03-05 01:13:12,979-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\6  Aula 6 - Atividade 1 Novos serviços com Interceptadores .ts
+ 2023-03-05 01:13:14,403-INFO-Done
+ 2023-03-05 01:13:14,466-INFO-There are 20 videos to convert.
+ 2023-03-05 01:13:14,470-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\7  Aula 7 - Atividade 1 Integração com Web Services .ts
+ 2023-03-05 01:13:14,472-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\7  Aula 7 - Atividade 1 Integração com Web Services .ts
+ 2023-03-05 01:13:16,616-INFO-Done
+ 2023-03-05 01:13:16,651-INFO-There are 19 videos to convert.
+ 2023-03-05 01:13:16,655-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\8  Aula 8 - Atividade 1 Agendamento e EAR .ts
+ 2023-03-05 01:13:16,656-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\8  Aula 8 - Atividade 1 Agendamento e EAR .ts
+ 2023-03-05 01:13:17,274-INFO-Done
+ 2023-03-05 01:13:17,311-INFO-There are 18 videos to convert.
+ 2023-03-05 01:13:17,313-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\021.1 1.1  Aula 1 - Atividade 1 Introdução nova versão .ts
+ 2023-03-05 01:13:17,315-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\021.1 1.1  Aula 1 - Atividade 1 Introdução nova versão .ts
+ 2023-03-05 01:13:18,107-INFO-Done
+ 2023-03-05 01:13:18,143-INFO-There are 17 videos to convert.
+ 2023-03-05 01:13:18,145-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\033.1 1.3  Aula 1 - Atividade 3 Do Java EE ao Jakarta EE nova versão  .ts
+ 2023-03-05 01:13:18,147-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\033.1 1.3  Aula 1 - Atividade 3 Do Java EE ao Jakarta EE nova versão  .ts
+ 2023-03-05 01:13:19,356-INFO-Done
+ 2023-03-05 01:13:19,409-INFO-There are 16 videos to convert.
+ 2023-03-05 01:13:19,416-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\045.1 1.5  Aula 1 - Atividade 5 Usando a API do Jakarta EE nova versão  .ts
+ 2023-03-05 01:13:19,418-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\045.1 1.5  Aula 1 - Atividade 5 Usando a API do Jakarta EE nova versão  .ts
+ 2023-03-05 01:13:21,104-INFO-Done
+ 2023-03-05 01:13:21,141-INFO-There are 15 videos to convert.
+ 2023-03-05 01:13:21,143-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\062.2 2.2  Aula 2 - Atividade 2 Conhecendo o Enterprise JavaBeans (EJB) nova versão  .ts
+ 2023-03-05 01:13:21,144-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\062.2 2.2  Aula 2 - Atividade 2 Conhecendo o Enterprise JavaBeans (EJB) nova versão  .ts
+ 2023-03-05 01:13:22,746-INFO-Done
+ 2023-03-05 01:13:22,781-INFO-There are 14 videos to convert.
+ 2023-03-05 01:13:22,784-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\074.2 2.4  Aula 2 - Atividade 4 Criando o nosso primeiro EJB nova versão  .ts
+ 2023-03-05 01:13:22,786-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\074.2 2.4  Aula 2 - Atividade 4 Criando o nosso primeiro EJB nova versão  .ts
+ 2023-03-05 01:13:26,208-INFO-Done
+ 2023-03-05 01:13:26,246-INFO-There are 13 videos to convert.
+ 2023-03-05 01:13:26,257-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\093.3 3.3  Aula 3 - Atividade 3 Trabalhando com banco de dados usando JPA nova versão  .ts
+ 2023-03-05 01:13:26,259-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\093.3 3.3  Aula 3 - Atividade 3 Trabalhando com banco de dados usando JPA nova versão  .ts
+ 2023-03-05 01:13:28,887-INFO-Done
+ 2023-03-05 01:13:28,918-INFO-There are 12 videos to convert.
+ 2023-03-05 01:13:28,921-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\107.3 3.7  Aula 3 - Atividade 7 Criando o Datasource nova versão  .ts
+ 2023-03-05 01:13:28,922-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\107.3 3.7  Aula 3 - Atividade 7 Criando o Datasource nova versão  .ts
+ 2023-03-05 01:13:31,449-INFO-Done
+ 2023-03-05 01:13:31,481-INFO-There are 11 videos to convert.
+ 2023-03-05 01:13:31,483-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\119.3 3.9  Aula 3 - Atividade 9 Inserindo e-mails nova versão  .ts
+ 2023-03-05 01:13:31,484-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\119.3 3.9  Aula 3 - Atividade 9 Inserindo e-mails nova versão  .ts
+ 2023-03-05 01:13:33,734-INFO-Done
+ 2023-03-05 01:13:33,985-INFO-There are 10 videos to convert.
+ 2023-03-05 01:13:33,987-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\132.4 4.2  Aula 4 - Atividade 2 Conhecendo o JAX-RS nova versão  .ts
+ 2023-03-05 01:13:33,988-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\132.4 4.2  Aula 4 - Atividade 2 Conhecendo o JAX-RS nova versão  .ts
+ 2023-03-05 01:13:36,333-INFO-Done
+ 2023-03-05 01:13:36,363-INFO-There are 9 videos to convert.
+ 2023-03-05 01:13:36,365-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\144.4 4.4  Aula 4 - Atividade 4 Configurando o context-root nova versão  .ts
+ 2023-03-05 01:13:36,366-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\144.4 4.4  Aula 4 - Atividade 4 Configurando o context-root nova versão  .ts
+ 2023-03-05 01:13:37,126-INFO-Done
+ 2023-03-05 01:13:37,158-INFO-There are 8 videos to convert.
+ 2023-03-05 01:13:37,162-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\162.5 5.2  Aula 5 - Atividade 2 Criando o job de envio de e-mai nova versão l .ts
+ 2023-03-05 01:13:37,163-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\162.5 5.2  Aula 5 - Atividade 2 Criando o job de envio de e-mai nova versão l .ts
+ 2023-03-05 01:13:40,491-INFO-Done
+ 2023-03-05 01:13:40,550-INFO-There are 7 videos to convert.
+ 2023-03-05 01:13:40,564-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\174.5 5.4  Aula 5 - Atividade 4 Usando Singleton nova versão  .ts
+ 2023-03-05 01:13:40,565-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\174.5 5.4  Aula 5 - Atividade 4 Usando Singleton nova versão  .ts
+ 2023-03-05 01:13:42,089-INFO-Done
+ 2023-03-05 01:13:42,262-INFO-There are 6 videos to convert.
+ 2023-03-05 01:13:42,264-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\192.6 6.2  Aula 6 - Atividade 2 Conhecendo o JMS nova versão  .ts
+ 2023-03-05 01:13:42,265-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\192.6 6.2  Aula 6 - Atividade 2 Conhecendo o JMS nova versão  .ts
+ 2023-03-05 01:13:42,929-INFO-Done
+ 2023-03-05 01:13:43,037-INFO-There are 5 videos to convert.
+ 2023-03-05 01:13:43,048-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\204.6 6.4  Aula 6 - Atividade 4 Criando Produce nova versão  .ts
+ 2023-03-05 01:13:43,049-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\204.6 6.4  Aula 6 - Atividade 4 Criando Produce nova versão  .ts
+ 2023-03-05 01:13:44,620-INFO-Done
+ 2023-03-05 01:13:44,783-INFO-There are 4 videos to convert.
+ 2023-03-05 01:13:44,787-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\216.6 6.6  Aula 6 - Atividade 6 Criando Consumer nova versão .ts
+ 2023-03-05 01:13:44,790-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\216.6 6.6  Aula 6 - Atividade 6 Criando Consumer nova versão .ts
+ 2023-03-05 01:13:48,008-INFO-Done
+ 2023-03-05 01:13:48,045-INFO-There are 3 videos to convert.
+ 2023-03-05 01:13:48,047-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\232.7 7.2  Aula 7 - Atividade 2 Trabalhando com Transações CMT nova versão .ts
+ 2023-03-05 01:13:48,049-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\232.7 7.2  Aula 7 - Atividade 2 Trabalhando com Transações CMT nova versão .ts
+ 2023-03-05 01:13:53,422-INFO-Done
+ 2023-03-05 01:13:53,704-INFO-There are 2 videos to convert.
+ 2023-03-05 01:13:53,802-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\243.7 7.3  Aula 7 - Atividade 3 Trabalhando com Transações BMT nova versão .ts
+ 2023-03-05 01:13:53,873-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\243.7 7.3  Aula 7 - Atividade 3 Trabalhando com Transações BMT nova versão .ts
+ 2023-03-05 01:13:57,685-INFO-Done
+ 2023-03-05 01:13:57,727-INFO-There are 1 videos to convert.
+ 2023-03-05 01:13:57,743-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\4. EJB O poder da Java EE\258.7 7.8  Aula 7 - Atividade 8 Conclusão nova versão .ts
+ 2023-03-05 01:13:57,745-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\4. EJB O poder da Java EE\258.7 7.8  Aula 7 - Atividade 8 Conclusão nova versão .ts
+ 2023-03-05 01:13:58,856-INFO-Done
+ 2023-03-05 01:13:58,896-INFO-There are no videos to convert
+ 2023-03-05 01:13:59,086-INFO-Star folder analysis: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2
+ 2023-03-05 01:13:59,126-INFO-Find for video with extension: .mp4, .ts, .mpg, .mpeg, .avi, .mkv, .flv, .3gp, .rmvb, .webm, .vob, .ogv, .rrc, .gifv, .mng, .mov, .qt, .wmv, .yuv, .rm, .asf, .amv, .m4p, .m4v, .mp2, .mpe, .mpv, .m4v, .svi, .3g2, .mxf, .roq, .nsv, .f4v, .f4p, .f4a, .f4b
+ 2023-03-05 01:13:59,134-INFO-Selected file: 1.1  Aula 1 - Atividade 1 Introdução ao desenvolvimento web com JSF .ts
+ 2023-03-05 01:13:59,135-INFO-Selected file: 2.1  Aula 2 - Atividade 1 Configuração do ambiente e os primeiros passos com JSF .ts
+ 2023-03-05 01:13:59,136-INFO-Selected file: 3.1  Aula 3 - Atividade 1 Entendendo MVC e integrando o banco de dados com JPA 2 .ts
+ 2023-03-05 01:13:59,138-INFO-Selected file: 4.1  Aula 4 - Atividade 1 Completando o sistema e lidando com escopos do JSF 2 .ts
+ 2023-03-05 01:13:59,139-INFO-Selected file: 5.1  Aula 5 - Atividade 1 Conversão e validação de dados .ts
+ 2023-03-05 01:13:59,140-INFO-Selected file: 6.1  Aula 6 - Atividade 1 Páginas mais dinâmicas com AJAX .ts
+ 2023-03-05 01:13:59,142-INFO-Selected file: 7.1  Aula 7 - Atividade 1 Navegação e o ciclo de vida dos componentes JSF .ts
+ 2023-03-05 01:13:59,145-INFO-Selected file: 8.1  Aula 8 - Atividade 1 Templates reutilizáveis com Facelets .ts
+ 2023-03-05 01:13:59,146-INFO-Selected file: 9.1  Aula 9 - Atividade 1 Completando o CRUD .ts
+ 2023-03-05 01:13:59,147-INFO-Selected file: 9.2  Aula 9 - Atividade 2 Completando o CRUD .ts
+ 2023-03-05 01:13:59,148-INFO-Selected file: 9.3  Aula 9 - Atividade 3 Completando o CRUD .ts
+ 2023-03-05 01:13:59,158-INFO-Selected file: 9.4  Aula 9 - Atividade 4 Completando o CRUD .ts
+ 2023-03-05 01:13:59,158-INFO-Selected file: 10.1  Aula 10 - Atividade 1 Vídeo 1 .ts
+ 2023-03-05 01:13:59,160-INFO-Selected file: 10.2  Aula 10 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:13:59,162-INFO-Selected file: 10.3  Aula 10 - Atividade 3 Vídeo 3 .ts
+ 2023-03-05 01:13:59,162-INFO-Selected file: 11.1  Aula 11 - Atividade 1 Autenticação do usuário .ts
+ 2023-03-05 01:13:59,163-INFO-Selected file: 11.2  Aula 11 - Atividade 2 Autenticação do usuário .ts
+ 2023-03-05 01:13:59,164-INFO-Selected file: 12.1  Aula 12 - Atividade 1 Vídeo 1 .ts
+ 2023-03-05 01:13:59,164-INFO-Selected file: 12.2  Aula 12 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:13:59,165-INFO-Selected file: 13.1  Aula 13 - Atividade 1 Vídeo 1 .ts
+ 2023-03-05 01:13:59,166-INFO-Selected file: 13.2  Aula 13 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:13:59,167-INFO-Selected file: 13.3  Aula 13 - Atividade 3 Vídeo 3 .ts
+ 2023-03-05 01:13:59,168-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\1.1  Aula 1 - Atividade 1 Introdução ao desenvolvimento web com JSF .ts
+ 2023-03-05 01:13:59,432-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\2.1  Aula 2 - Atividade 1 Configuração do ambiente e os primeiros passos com JSF .ts
+ 2023-03-05 01:13:59,597-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\3.1  Aula 3 - Atividade 1 Entendendo MVC e integrando o banco de dados com JPA 2 .ts
+ 2023-03-05 01:13:59,781-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\4.1  Aula 4 - Atividade 1 Completando o sistema e lidando com escopos do JSF 2 .ts
+ 2023-03-05 01:13:59,967-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\5.1  Aula 5 - Atividade 1 Conversão e validação de dados .ts
+ 2023-03-05 01:14:00,307-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\6.1  Aula 6 - Atividade 1 Páginas mais dinâmicas com AJAX .ts
+ 2023-03-05 01:14:00,472-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\7.1  Aula 7 - Atividade 1 Navegação e o ciclo de vida dos componentes JSF .ts
+ 2023-03-05 01:14:00,636-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\8.1  Aula 8 - Atividade 1 Templates reutilizáveis com Facelets .ts
+ 2023-03-05 01:14:00,794-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\9.1  Aula 9 - Atividade 1 Completando o CRUD .ts
+ 2023-03-05 01:14:00,953-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\9.2  Aula 9 - Atividade 2 Completando o CRUD .ts
+ 2023-03-05 01:14:01,255-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\9.3  Aula 9 - Atividade 3 Completando o CRUD .ts
+ 2023-03-05 01:14:01,505-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\9.4  Aula 9 - Atividade 4 Completando o CRUD .ts
+ 2023-03-05 01:14:01,678-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\10.1  Aula 10 - Atividade 1 Vídeo 1 .ts
+ 2023-03-05 01:14:01,858-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\10.2  Aula 10 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:14:02,015-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\10.3  Aula 10 - Atividade 3 Vídeo 3 .ts
+ 2023-03-05 01:14:02,230-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\11.1  Aula 11 - Atividade 1 Autenticação do usuário .ts
+ 2023-03-05 01:14:02,472-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\11.2  Aula 11 - Atividade 2 Autenticação do usuário .ts
+ 2023-03-05 01:14:02,674-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\12.1  Aula 12 - Atividade 1 Vídeo 1 .ts
+ 2023-03-05 01:14:02,827-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\12.2  Aula 12 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:14:02,985-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\13.1  Aula 13 - Atividade 1 Vídeo 1 .ts
+ 2023-03-05 01:14:03,447-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\13.2  Aula 13 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:14:03,783-INFO-run ffprobe: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\13.3  Aula 13 - Atividade 3 Vídeo 3 .ts
+ 2023-03-05 01:14:04,036-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\1.1  Aula 1 - Atividade 1 Introdução ao desenvolvimento web com JSF .ts
+ 2023-03-05 01:14:04,037-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\2.1  Aula 2 - Atividade 1 Configuração do ambiente e os primeiros passos com JSF .ts
+ 2023-03-05 01:14:04,039-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\3.1  Aula 3 - Atividade 1 Entendendo MVC e integrando o banco de dados com JPA 2 .ts
+ 2023-03-05 01:14:04,041-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\4.1  Aula 4 - Atividade 1 Completando o sistema e lidando com escopos do JSF 2 .ts
+ 2023-03-05 01:14:04,064-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\5.1  Aula 5 - Atividade 1 Conversão e validação de dados .ts
+ 2023-03-05 01:14:04,072-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\6.1  Aula 6 - Atividade 1 Páginas mais dinâmicas com AJAX .ts
+ 2023-03-05 01:14:04,073-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\7.1  Aula 7 - Atividade 1 Navegação e o ciclo de vida dos componentes JSF .ts
+ 2023-03-05 01:14:04,075-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\8.1  Aula 8 - Atividade 1 Templates reutilizáveis com Facelets .ts
+ 2023-03-05 01:14:04,078-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\9.1  Aula 9 - Atividade 1 Completando o CRUD .ts
+ 2023-03-05 01:14:04,079-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\9.2  Aula 9 - Atividade 2 Completando o CRUD .ts
+ 2023-03-05 01:14:04,080-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\9.3  Aula 9 - Atividade 3 Completando o CRUD .ts
+ 2023-03-05 01:14:04,082-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\9.4  Aula 9 - Atividade 4 Completando o CRUD .ts
+ 2023-03-05 01:14:04,083-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\10.1  Aula 10 - Atividade 1 Vídeo 1 .ts
+ 2023-03-05 01:14:04,085-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\10.2  Aula 10 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:14:04,086-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\10.3  Aula 10 - Atividade 3 Vídeo 3 .ts
+ 2023-03-05 01:14:04,088-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\11.1  Aula 11 - Atividade 1 Autenticação do usuário .ts
+ 2023-03-05 01:14:04,090-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\11.2  Aula 11 - Atividade 2 Autenticação do usuário .ts
+ 2023-03-05 01:14:04,092-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\12.1  Aula 12 - Atividade 1 Vídeo 1 .ts
+ 2023-03-05 01:14:04,094-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\12.2  Aula 12 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:14:04,095-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\13.1  Aula 13 - Atividade 1 Vídeo 1 .ts
+ 2023-03-05 01:14:04,097-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\13.2  Aula 13 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:14:04,098-INFO-parsing: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\13.3  Aula 13 - Atividade 3 Vídeo 3 .ts
+ 2023-03-05 01:14:04,266-INFO-There are 22 videos to convert.
+ 2023-03-05 01:14:04,303-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\1.1  Aula 1 - Atividade 1 Introdução ao desenvolvimento web com JSF .ts
+ 2023-03-05 01:14:04,340-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\1.1  Aula 1 - Atividade 1 Introdução ao desenvolvimento web com JSF .ts
+ 2023-03-05 01:14:06,567-INFO-Done
+ 2023-03-05 01:14:06,601-INFO-There are 21 videos to convert.
+ 2023-03-05 01:14:06,603-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\2.1  Aula 2 - Atividade 1 Configuração do ambiente e os primeiros passos com JSF .ts
+ 2023-03-05 01:14:06,604-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\2.1  Aula 2 - Atividade 1 Configuração do ambiente e os primeiros passos com JSF .ts
+ 2023-03-05 01:14:09,506-INFO-Done
+ 2023-03-05 01:14:09,567-INFO-There are 20 videos to convert.
+ 2023-03-05 01:14:09,584-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\3.1  Aula 3 - Atividade 1 Entendendo MVC e integrando o banco de dados com JPA 2 .ts
+ 2023-03-05 01:14:09,588-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\3.1  Aula 3 - Atividade 1 Entendendo MVC e integrando o banco de dados com JPA 2 .ts
+ 2023-03-05 01:14:11,342-INFO-Done
+ 2023-03-05 01:14:11,472-INFO-There are 19 videos to convert.
+ 2023-03-05 01:14:11,517-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\4.1  Aula 4 - Atividade 1 Completando o sistema e lidando com escopos do JSF 2 .ts
+ 2023-03-05 01:14:11,538-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\4.1  Aula 4 - Atividade 1 Completando o sistema e lidando com escopos do JSF 2 .ts
+ 2023-03-05 01:14:19,097-INFO-Done
+ 2023-03-05 01:14:19,144-INFO-There are 18 videos to convert.
+ 2023-03-05 01:14:19,149-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\5.1  Aula 5 - Atividade 1 Conversão e validação de dados .ts
+ 2023-03-05 01:14:19,152-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\5.1  Aula 5 - Atividade 1 Conversão e validação de dados .ts
+ 2023-03-05 01:14:21,410-INFO-Done
+ 2023-03-05 01:14:21,497-INFO-There are 17 videos to convert.
+ 2023-03-05 01:14:21,501-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\6.1  Aula 6 - Atividade 1 Páginas mais dinâmicas com AJAX .ts
+ 2023-03-05 01:14:21,504-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\6.1  Aula 6 - Atividade 1 Páginas mais dinâmicas com AJAX .ts
+ 2023-03-05 01:14:22,972-INFO-Done
+ 2023-03-05 01:14:23,006-INFO-There are 16 videos to convert.
+ 2023-03-05 01:14:23,009-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\7.1  Aula 7 - Atividade 1 Navegação e o ciclo de vida dos componentes JSF .ts
+ 2023-03-05 01:14:23,010-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\7.1  Aula 7 - Atividade 1 Navegação e o ciclo de vida dos componentes JSF .ts
+ 2023-03-05 01:14:24,757-INFO-Done
+ 2023-03-05 01:14:24,798-INFO-There are 15 videos to convert.
+ 2023-03-05 01:14:24,801-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\8.1  Aula 8 - Atividade 1 Templates reutilizáveis com Facelets .ts
+ 2023-03-05 01:14:24,803-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\8.1  Aula 8 - Atividade 1 Templates reutilizáveis com Facelets .ts
+ 2023-03-05 01:14:26,270-INFO-Done
+ 2023-03-05 01:14:26,301-INFO-There are 14 videos to convert.
+ 2023-03-05 01:14:26,303-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\9.1  Aula 9 - Atividade 1 Completando o CRUD .ts
+ 2023-03-05 01:14:26,307-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\9.1  Aula 9 - Atividade 1 Completando o CRUD .ts
+ 2023-03-05 01:14:26,706-INFO-Done
+ 2023-03-05 01:14:26,739-INFO-There are 13 videos to convert.
+ 2023-03-05 01:14:26,741-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\9.2  Aula 9 - Atividade 2 Completando o CRUD .ts
+ 2023-03-05 01:14:26,742-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\9.2  Aula 9 - Atividade 2 Completando o CRUD .ts
+ 2023-03-05 01:14:28,693-INFO-Done
+ 2023-03-05 01:14:28,737-INFO-There are 12 videos to convert.
+ 2023-03-05 01:14:28,739-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\9.3  Aula 9 - Atividade 3 Completando o CRUD .ts
+ 2023-03-05 01:14:28,741-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\9.3  Aula 9 - Atividade 3 Completando o CRUD .ts
+ 2023-03-05 01:14:30,066-INFO-Done
+ 2023-03-05 01:14:30,097-INFO-There are 11 videos to convert.
+ 2023-03-05 01:14:30,099-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\9.4  Aula 9 - Atividade 4 Completando o CRUD .ts
+ 2023-03-05 01:14:30,100-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\9.4  Aula 9 - Atividade 4 Completando o CRUD .ts
+ 2023-03-05 01:14:31,358-INFO-Done
+ 2023-03-05 01:14:31,389-INFO-There are 10 videos to convert.
+ 2023-03-05 01:14:31,394-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\10.1  Aula 10 - Atividade 1 Vídeo 1 .ts
+ 2023-03-05 01:14:31,395-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\10.1  Aula 10 - Atividade 1 Vídeo 1 .ts
+ 2023-03-05 01:14:31,979-INFO-Done
+ 2023-03-05 01:14:32,012-INFO-There are 9 videos to convert.
+ 2023-03-05 01:14:32,014-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\10.2  Aula 10 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:14:32,015-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\10.2  Aula 10 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:14:33,407-INFO-Done
+ 2023-03-05 01:14:33,440-INFO-There are 8 videos to convert.
+ 2023-03-05 01:14:33,445-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\10.3  Aula 10 - Atividade 3 Vídeo 3 .ts
+ 2023-03-05 01:14:33,446-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\10.3  Aula 10 - Atividade 3 Vídeo 3 .ts
+ 2023-03-05 01:14:35,995-INFO-Done
+ 2023-03-05 01:14:36,060-INFO-There are 7 videos to convert.
+ 2023-03-05 01:14:36,068-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\11.1  Aula 11 - Atividade 1 Autenticação do usuário .ts
+ 2023-03-05 01:14:36,071-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\11.1  Aula 11 - Atividade 1 Autenticação do usuário .ts
+ 2023-03-05 01:14:36,577-INFO-Done
+ 2023-03-05 01:14:36,607-INFO-There are 6 videos to convert.
+ 2023-03-05 01:14:36,612-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\11.2  Aula 11 - Atividade 2 Autenticação do usuário .ts
+ 2023-03-05 01:14:36,612-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\11.2  Aula 11 - Atividade 2 Autenticação do usuário .ts
+ 2023-03-05 01:14:40,191-INFO-Done
+ 2023-03-05 01:14:40,222-INFO-There are 5 videos to convert.
+ 2023-03-05 01:14:40,225-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\12.1  Aula 12 - Atividade 1 Vídeo 1 .ts
+ 2023-03-05 01:14:40,227-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\12.1  Aula 12 - Atividade 1 Vídeo 1 .ts
+ 2023-03-05 01:14:40,834-INFO-Done
+ 2023-03-05 01:14:40,882-INFO-There are 4 videos to convert.
+ 2023-03-05 01:14:40,891-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\12.2  Aula 12 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:14:40,892-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\12.2  Aula 12 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:14:44,068-INFO-Done
+ 2023-03-05 01:14:44,098-INFO-There are 3 videos to convert.
+ 2023-03-05 01:14:44,104-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\13.1  Aula 13 - Atividade 1 Vídeo 1 .ts
+ 2023-03-05 01:14:44,105-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\13.1  Aula 13 - Atividade 1 Vídeo 1 .ts
+ 2023-03-05 01:14:45,356-INFO-Done
+ 2023-03-05 01:14:45,389-INFO-There are 2 videos to convert.
+ 2023-03-05 01:14:45,392-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\13.2  Aula 13 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:14:45,393-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\13.2  Aula 13 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:14:46,831-INFO-Done
+ 2023-03-05 01:14:46,862-INFO-There are 1 videos to convert.
+ 2023-03-05 01:14:46,864-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\13.3  Aula 13 - Atividade 3 Vídeo 3 .ts
+ 2023-03-05 01:14:46,865-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\6. Java e JSF I Sua aplicação web com JSF2\13.3  Aula 13 - Atividade 3 Vídeo 3 .ts
+ 2023-03-05 01:14:48,511-INFO-Done
+ 2023-03-05 01:14:48,543-INFO-There are no videos to convert
+ 2023-03-05 01:14:48,696-INFO-Star folder analysis: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces
+ 2023-03-05 01:14:48,735-INFO-Find for video with extension: .mp4, .ts, .mpg, .mpeg, .avi, .mkv, .flv, .3gp, .rmvb, .webm, .vob, .ogv, .rrc, .gifv, .mng, .mov, .qt, .wmv, .yuv, .rm, .asf, .amv, .m4p, .m4v, .mp2, .mpe, .mpv, .m4v, .svi, .3g2, .mxf, .roq, .nsv, .f4v, .f4p, .f4a, .f4b
+ 2023-03-05 01:14:48,744-INFO-Selected file: 1.1  Aula 1 - Atividade 1 Apresentação e teste de avaliação .ts
+ 2023-03-05 01:14:48,744-INFO-Selected file: 2.1  Aula 2 - Atividade 1 Introdução .ts
+ 2023-03-05 01:14:48,745-INFO-Selected file: 2.2  Aula 2 - Atividade 2 Demo do Primefaces .ts
+ 2023-03-05 01:14:48,746-INFO-Selected file: 3.1  Aula 3 - Atividade 1 Melhorando a página dos autores .ts
+ 2023-03-05 01:14:48,747-INFO-Selected file: 3.2  Aula 3 - Atividade 2 Usando o componente DataList .ts
+ 2023-03-05 01:14:48,748-INFO-Selected file: 3.3  Aula 3 - Atividade 3 Utilizando ícones do Primefaces .ts
+ 2023-03-05 01:14:48,749-INFO-Selected file: 4.1  Aula 4 - Atividade 1 Primefaces na página de livros .ts
+ 2023-03-05 01:14:48,750-INFO-Selected file: 4.2  Aula 4 - Atividade 2 Finalizando os dados do autor .ts
+ 2023-03-05 01:14:48,751-INFO-Selected file: 5.1  Aula 5 - Atividade 1 Continuando mudanças .ts
+ 2023-03-05 01:14:48,752-INFO-Selected file: 5.2  Aula 5 - Atividade 2 Paginando a tabela .ts
+ 2023-03-05 01:14:48,754-INFO-Selected file: 6.1  Aula 6 - Atividade 1 Qual menu a usar- .ts
+ 2023-03-05 01:14:48,756-INFO-Selected file: 7.1  Aula 7 - Atividade 1 O que são temas- .ts
+ 2023-03-05 01:14:48,761-INFO-Selected file: 7.2  Aula 7 - Atividade 2 Um tema na aplicação inteira .ts
+ 2023-03-05 01:14:48,762-INFO-Selected file: 7.3  Aula 7 - Atividade 3 Oferecendo todos os temas .ts
+ 2023-03-05 01:14:48,764-INFO-Selected file: 8.1  Aula 8 - Atividade 1 Introduzindo as vendas de um livro .ts
+ 2023-03-05 01:14:48,765-INFO-Selected file: 8.2  Aula 8 - Atividade 2 A página de vendas .ts
+ 2023-03-05 01:14:48,766-INFO-Selected file: 8.3  Aula 8 - Atividade 3 Terminando o projeto .ts
+ 2023-03-05 01:14:48,767-INFO-run ffprobe: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\1.1  Aula 1 - Atividade 1 Apresentação e teste de avaliação .ts
+ 2023-03-05 01:14:49,653-INFO-run ffprobe: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\2.1  Aula 2 - Atividade 1 Introdução .ts
+ 2023-03-05 01:14:51,613-INFO-run ffprobe: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\2.2  Aula 2 - Atividade 2 Demo do Primefaces .ts
+ 2023-03-05 01:14:52,473-INFO-run ffprobe: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\3.1  Aula 3 - Atividade 1 Melhorando a página dos autores .ts
+ 2023-03-05 01:14:52,778-INFO-run ffprobe: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\3.2  Aula 3 - Atividade 2 Usando o componente DataList .ts
+ 2023-03-05 01:14:53,064-INFO-run ffprobe: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\3.3  Aula 3 - Atividade 3 Utilizando ícones do Primefaces .ts
+ 2023-03-05 01:14:53,267-INFO-run ffprobe: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\4.1  Aula 4 - Atividade 1 Primefaces na página de livros .ts
+ 2023-03-05 01:14:53,484-INFO-run ffprobe: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\4.2  Aula 4 - Atividade 2 Finalizando os dados do autor .ts
+ 2023-03-05 01:14:53,984-INFO-run ffprobe: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\5.1  Aula 5 - Atividade 1 Continuando mudanças .ts
+ 2023-03-05 01:14:54,331-INFO-run ffprobe: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\5.2  Aula 5 - Atividade 2 Paginando a tabela .ts
+ 2023-03-05 01:14:54,736-INFO-run ffprobe: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\6.1  Aula 6 - Atividade 1 Qual menu a usar- .ts
+ 2023-03-05 01:14:55,084-INFO-run ffprobe: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\7.1  Aula 7 - Atividade 1 O que são temas- .ts
+ 2023-03-05 01:14:55,279-INFO-run ffprobe: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\7.2  Aula 7 - Atividade 2 Um tema na aplicação inteira .ts
+ 2023-03-05 01:14:55,477-INFO-run ffprobe: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\7.3  Aula 7 - Atividade 3 Oferecendo todos os temas .ts
+ 2023-03-05 01:14:56,021-INFO-run ffprobe: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\8.1  Aula 8 - Atividade 1 Introduzindo as vendas de um livro .ts
+ 2023-03-05 01:14:56,374-INFO-run ffprobe: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\8.2  Aula 8 - Atividade 2 A página de vendas .ts
+ 2023-03-05 01:14:56,616-INFO-run ffprobe: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\8.3  Aula 8 - Atividade 3 Terminando o projeto .ts
+ 2023-03-05 01:14:57,359-INFO-parsing: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\1.1  Aula 1 - Atividade 1 Apresentação e teste de avaliação .ts
+ 2023-03-05 01:14:57,361-INFO-parsing: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\2.1  Aula 2 - Atividade 1 Introdução .ts
+ 2023-03-05 01:14:57,366-INFO-parsing: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\2.2  Aula 2 - Atividade 2 Demo do Primefaces .ts
+ 2023-03-05 01:14:57,367-INFO-parsing: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\3.1  Aula 3 - Atividade 1 Melhorando a página dos autores .ts
+ 2023-03-05 01:14:57,368-INFO-parsing: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\3.2  Aula 3 - Atividade 2 Usando o componente DataList .ts
+ 2023-03-05 01:14:57,369-INFO-parsing: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\3.3  Aula 3 - Atividade 3 Utilizando ícones do Primefaces .ts
+ 2023-03-05 01:14:57,371-INFO-parsing: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\4.1  Aula 4 - Atividade 1 Primefaces na página de livros .ts
+ 2023-03-05 01:14:57,372-INFO-parsing: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\4.2  Aula 4 - Atividade 2 Finalizando os dados do autor .ts
+ 2023-03-05 01:14:57,373-INFO-parsing: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\5.1  Aula 5 - Atividade 1 Continuando mudanças .ts
+ 2023-03-05 01:14:57,375-INFO-parsing: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\5.2  Aula 5 - Atividade 2 Paginando a tabela .ts
+ 2023-03-05 01:14:57,376-INFO-parsing: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\6.1  Aula 6 - Atividade 1 Qual menu a usar- .ts
+ 2023-03-05 01:14:57,377-INFO-parsing: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\7.1  Aula 7 - Atividade 1 O que são temas- .ts
+ 2023-03-05 01:14:57,379-INFO-parsing: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\7.2  Aula 7 - Atividade 2 Um tema na aplicação inteira .ts
+ 2023-03-05 01:14:57,380-INFO-parsing: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\7.3  Aula 7 - Atividade 3 Oferecendo todos os temas .ts
+ 2023-03-05 01:14:57,381-INFO-parsing: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\8.1  Aula 8 - Atividade 1 Introduzindo as vendas de um livro .ts
+ 2023-03-05 01:14:57,382-INFO-parsing: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\8.2  Aula 8 - Atividade 2 A página de vendas .ts
+ 2023-03-05 01:14:57,386-INFO-parsing: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\8.3  Aula 8 - Atividade 3 Terminando o projeto .ts
+ 2023-03-05 01:14:57,443-INFO-There are 17 videos to convert.
+ 2023-03-05 01:14:57,447-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\1.1  Aula 1 - Atividade 1 Apresentação e teste de avaliação .ts
+ 2023-03-05 01:14:57,449-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\1.1  Aula 1 - Atividade 1 Apresentação e teste de avaliação .ts
+ 2023-03-05 01:14:58,815-INFO-Done
+ 2023-03-05 01:14:58,861-INFO-There are 16 videos to convert.
+ 2023-03-05 01:14:58,867-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\2.1  Aula 2 - Atividade 1 Introdução .ts
+ 2023-03-05 01:14:58,868-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\2.1  Aula 2 - Atividade 1 Introdução .ts
+ 2023-03-05 01:15:01,911-INFO-Done
+ 2023-03-05 01:15:01,993-INFO-There are 15 videos to convert.
+ 2023-03-05 01:15:01,997-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\2.2  Aula 2 - Atividade 2 Demo do Primefaces .ts
+ 2023-03-05 01:15:01,998-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\2.2  Aula 2 - Atividade 2 Demo do Primefaces .ts
+ 2023-03-05 01:15:04,446-INFO-Done
+ 2023-03-05 01:15:04,476-INFO-There are 14 videos to convert.
+ 2023-03-05 01:15:04,481-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\3.1  Aula 3 - Atividade 1 Melhorando a página dos autores .ts
+ 2023-03-05 01:15:04,482-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\3.1  Aula 3 - Atividade 1 Melhorando a página dos autores .ts
+ 2023-03-05 01:15:12,387-INFO-Done
+ 2023-03-05 01:15:12,425-INFO-There are 13 videos to convert.
+ 2023-03-05 01:15:12,433-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\3.2  Aula 3 - Atividade 2 Usando o componente DataList .ts
+ 2023-03-05 01:15:12,434-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\3.2  Aula 3 - Atividade 2 Usando o componente DataList .ts
+ 2023-03-05 01:15:14,859-INFO-Done
+ 2023-03-05 01:15:14,893-INFO-There are 12 videos to convert.
+ 2023-03-05 01:15:14,897-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\3.3  Aula 3 - Atividade 3 Utilizando ícones do Primefaces .ts
+ 2023-03-05 01:15:14,899-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\3.3  Aula 3 - Atividade 3 Utilizando ícones do Primefaces .ts
+ 2023-03-05 01:15:16,076-INFO-Done
+ 2023-03-05 01:15:16,123-INFO-There are 11 videos to convert.
+ 2023-03-05 01:15:16,126-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\4.1  Aula 4 - Atividade 1 Primefaces na página de livros .ts
+ 2023-03-05 01:15:16,127-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\4.1  Aula 4 - Atividade 1 Primefaces na página de livros .ts
+ 2023-03-05 01:15:18,670-INFO-Done
+ 2023-03-05 01:15:18,702-INFO-There are 10 videos to convert.
+ 2023-03-05 01:15:18,705-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\4.2  Aula 4 - Atividade 2 Finalizando os dados do autor .ts
+ 2023-03-05 01:15:18,706-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\4.2  Aula 4 - Atividade 2 Finalizando os dados do autor .ts
+ 2023-03-05 01:15:22,304-INFO-Done
+ 2023-03-05 01:15:23,228-INFO-There are 9 videos to convert.
+ 2023-03-05 01:15:23,233-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\5.1  Aula 5 - Atividade 1 Continuando mudanças .ts
+ 2023-03-05 01:15:23,235-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\5.1  Aula 5 - Atividade 1 Continuando mudanças .ts
+ 2023-03-05 01:15:26,487-INFO-Done
+ 2023-03-05 01:15:26,529-INFO-There are 8 videos to convert.
+ 2023-03-05 01:15:26,536-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\5.2  Aula 5 - Atividade 2 Paginando a tabela .ts
+ 2023-03-05 01:15:26,540-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\5.2  Aula 5 - Atividade 2 Paginando a tabela .ts
+ 2023-03-05 01:15:27,726-INFO-Done
+ 2023-03-05 01:15:27,756-INFO-There are 7 videos to convert.
+ 2023-03-05 01:15:27,758-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\6.1  Aula 6 - Atividade 1 Qual menu a usar- .ts
+ 2023-03-05 01:15:27,761-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\6.1  Aula 6 - Atividade 1 Qual menu a usar- .ts
+ 2023-03-05 01:15:30,000-INFO-Done
+ 2023-03-05 01:15:30,208-INFO-There are 6 videos to convert.
+ 2023-03-05 01:15:30,213-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\7.1  Aula 7 - Atividade 1 O que são temas- .ts
+ 2023-03-05 01:15:30,214-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\7.1  Aula 7 - Atividade 1 O que são temas- .ts
+ 2023-03-05 01:15:31,564-INFO-Done
+ 2023-03-05 01:15:31,595-INFO-There are 5 videos to convert.
+ 2023-03-05 01:15:31,602-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\7.2  Aula 7 - Atividade 2 Um tema na aplicação inteira .ts
+ 2023-03-05 01:15:31,603-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\7.2  Aula 7 - Atividade 2 Um tema na aplicação inteira .ts
+ 2023-03-05 01:15:34,117-INFO-Done
+ 2023-03-05 01:15:34,153-INFO-There are 4 videos to convert.
+ 2023-03-05 01:15:34,156-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\7.3  Aula 7 - Atividade 3 Oferecendo todos os temas .ts
+ 2023-03-05 01:15:34,158-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\7.3  Aula 7 - Atividade 3 Oferecendo todos os temas .ts
+ 2023-03-05 01:15:36,344-INFO-Done
+ 2023-03-05 01:15:36,385-INFO-There are 3 videos to convert.
+ 2023-03-05 01:15:36,389-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\8.1  Aula 8 - Atividade 1 Introduzindo as vendas de um livro .ts
+ 2023-03-05 01:15:36,390-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\8.1  Aula 8 - Atividade 1 Introduzindo as vendas de um livro .ts
+ 2023-03-05 01:15:37,582-INFO-Done
+ 2023-03-05 01:15:37,613-INFO-There are 2 videos to convert.
+ 2023-03-05 01:15:37,615-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\8.2  Aula 8 - Atividade 2 A página de vendas .ts
+ 2023-03-05 01:15:37,616-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\8.2  Aula 8 - Atividade 2 A página de vendas .ts
+ 2023-03-05 01:15:40,834-INFO-Done
+ 2023-03-05 01:15:40,865-INFO-There are 1 videos to convert.
+ 2023-03-05 01:15:40,867-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\8.3  Aula 8 - Atividade 3 Terminando o projeto .ts
+ 2023-03-05 01:15:40,868-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\7. Java e JSF 2 - II Componentes ricos com Primefaces\8.3  Aula 8 - Atividade 3 Terminando o projeto .ts
+ 2023-03-05 01:15:41,593-INFO-Done
+ 2023-03-05 01:15:41,625-INFO-There are no videos to convert
+ 2023-03-05 01:15:41,721-INFO-Star folder analysis: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI
+ 2023-03-05 01:15:41,796-INFO-Find for video with extension: .mp4, .ts, .mpg, .mpeg, .avi, .mkv, .flv, .3gp, .rmvb, .webm, .vob, .ogv, .rrc, .gifv, .mng, .mov, .qt, .wmv, .yuv, .rm, .asf, .amv, .m4p, .m4v, .mp2, .mpe, .mpv, .m4v, .svi, .3g2, .mxf, .roq, .nsv, .f4v, .f4p, .f4a, .f4b
+ 2023-03-05 01:15:41,811-INFO-Selected file: 1.1  Aula 1 - Atividade 1 Pré-requisitos .ts
+ 2023-03-05 01:15:41,812-INFO-Selected file: 1.2  Aula 1 - Atividade 2 Problemas do alto acoplamento .ts
+ 2023-03-05 01:15:41,813-INFO-Selected file: 1.3  Aula 1 - Atividade 3 ManagedBeans com CDI- .ts
+ 2023-03-05 01:15:41,814-INFO-Selected file: 1.4  Aula 1 - Atividade 4 Gerenciando Beans com CDI .ts
+ 2023-03-05 01:15:41,815-INFO-Selected file: 2.1  Aula 2 - Atividade 1 Vídeo 1 .ts
+ 2023-03-05 01:15:41,818-INFO-Selected file: 2.2  Aula 2 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:15:41,819-INFO-Selected file: 2.3  Aula 2 - Atividade 3 Vídeo 3 .ts
+ 2023-03-05 01:15:41,820-INFO-Selected file: 3.1  Aula 3 - Atividade 1 Gerenciando transações com CDI .ts
+ 2023-03-05 01:15:41,822-INFO-Selected file: 3.2  Aula 3 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:15:41,832-INFO-Selected file: 4.1  Aula 4 - Atividade 1 Injeção de dependências na estrutura de login .ts
+ 2023-03-05 01:15:41,867-INFO-Selected file: 4.2  Aula 4 - Atividade 2 Selecionando as vendas do banco de dados .ts
+ 2023-03-05 01:15:41,881-INFO-Selected file: 4.3  Aula 4 - Atividade 3 Relacionamentos do tipo EAGER .ts
+ 2023-03-05 01:15:41,882-INFO-Selected file: 5.1  Aula 5 - Atividade 1 Integração com o Maven .ts
+ 2023-03-05 01:15:41,883-INFO-Selected file: 5.2  Aula 5 - Atividade 2 Integração com Spring .ts
+ 2023-03-05 01:15:41,884-INFO-Selected file: 5.3  Aula 5 - Atividade 3 Integração com EJB .ts
+ 2023-03-05 01:15:41,885-INFO-run ffprobe: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\1.1  Aula 1 - Atividade 1 Pré-requisitos .ts
+ 2023-03-05 01:15:42,337-INFO-run ffprobe: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\1.2  Aula 1 - Atividade 2 Problemas do alto acoplamento .ts
+ 2023-03-05 01:15:42,632-INFO-run ffprobe: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\1.3  Aula 1 - Atividade 3 ManagedBeans com CDI- .ts
+ 2023-03-05 01:15:42,864-INFO-run ffprobe: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\1.4  Aula 1 - Atividade 4 Gerenciando Beans com CDI .ts
+ 2023-03-05 01:15:43,197-INFO-run ffprobe: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\2.1  Aula 2 - Atividade 1 Vídeo 1 .ts
+ 2023-03-05 01:15:43,667-INFO-run ffprobe: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\2.2  Aula 2 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:15:43,903-INFO-run ffprobe: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\2.3  Aula 2 - Atividade 3 Vídeo 3 .ts
+ 2023-03-05 01:15:44,177-INFO-run ffprobe: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\3.1  Aula 3 - Atividade 1 Gerenciando transações com CDI .ts
+ 2023-03-05 01:15:44,662-INFO-run ffprobe: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\3.2  Aula 3 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:15:44,883-INFO-run ffprobe: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\4.1  Aula 4 - Atividade 1 Injeção de dependências na estrutura de login .ts
+ 2023-03-05 01:15:45,104-INFO-run ffprobe: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\4.2  Aula 4 - Atividade 2 Selecionando as vendas do banco de dados .ts
+ 2023-03-05 01:15:45,532-INFO-run ffprobe: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\4.3  Aula 4 - Atividade 3 Relacionamentos do tipo EAGER .ts
+ 2023-03-05 01:15:45,847-INFO-run ffprobe: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\5.1  Aula 5 - Atividade 1 Integração com o Maven .ts
+ 2023-03-05 01:15:46,037-INFO-run ffprobe: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\5.2  Aula 5 - Atividade 2 Integração com Spring .ts
+ 2023-03-05 01:15:46,466-INFO-run ffprobe: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\5.3  Aula 5 - Atividade 3 Integração com EJB .ts
+ 2023-03-05 01:15:47,016-INFO-parsing: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\1.1  Aula 1 - Atividade 1 Pré-requisitos .ts
+ 2023-03-05 01:15:47,019-INFO-parsing: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\1.2  Aula 1 - Atividade 2 Problemas do alto acoplamento .ts
+ 2023-03-05 01:15:47,022-INFO-parsing: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\1.3  Aula 1 - Atividade 3 ManagedBeans com CDI- .ts
+ 2023-03-05 01:15:47,023-INFO-parsing: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\1.4  Aula 1 - Atividade 4 Gerenciando Beans com CDI .ts
+ 2023-03-05 01:15:47,024-INFO-parsing: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\2.1  Aula 2 - Atividade 1 Vídeo 1 .ts
+ 2023-03-05 01:15:47,024-INFO-parsing: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\2.2  Aula 2 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:15:47,025-INFO-parsing: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\2.3  Aula 2 - Atividade 3 Vídeo 3 .ts
+ 2023-03-05 01:15:47,026-INFO-parsing: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\3.1  Aula 3 - Atividade 1 Gerenciando transações com CDI .ts
+ 2023-03-05 01:15:47,027-INFO-parsing: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\3.2  Aula 3 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:15:47,030-INFO-parsing: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\4.1  Aula 4 - Atividade 1 Injeção de dependências na estrutura de login .ts
+ 2023-03-05 01:15:47,031-INFO-parsing: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\4.2  Aula 4 - Atividade 2 Selecionando as vendas do banco de dados .ts
+ 2023-03-05 01:15:47,032-INFO-parsing: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\4.3  Aula 4 - Atividade 3 Relacionamentos do tipo EAGER .ts
+ 2023-03-05 01:15:47,033-INFO-parsing: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\5.1  Aula 5 - Atividade 1 Integração com o Maven .ts
+ 2023-03-05 01:15:47,035-INFO-parsing: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\5.2  Aula 5 - Atividade 2 Integração com Spring .ts
+ 2023-03-05 01:15:47,036-INFO-parsing: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\5.3  Aula 5 - Atividade 3 Integração com EJB .ts
+ 2023-03-05 01:15:47,105-INFO-There are 15 videos to convert.
+ 2023-03-05 01:15:47,108-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\1.1  Aula 1 - Atividade 1 Pré-requisitos .ts
+ 2023-03-05 01:15:47,109-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\1.1  Aula 1 - Atividade 1 Pré-requisitos .ts
+ 2023-03-05 01:15:50,075-INFO-Done
+ 2023-03-05 01:15:50,177-INFO-There are 14 videos to convert.
+ 2023-03-05 01:15:50,187-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\1.2  Aula 1 - Atividade 2 Problemas do alto acoplamento .ts
+ 2023-03-05 01:15:50,189-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\1.2  Aula 1 - Atividade 2 Problemas do alto acoplamento .ts
+ 2023-03-05 01:15:51,737-INFO-Done
+ 2023-03-05 01:15:51,777-INFO-There are 13 videos to convert.
+ 2023-03-05 01:15:51,779-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\1.3  Aula 1 - Atividade 3 ManagedBeans com CDI- .ts
+ 2023-03-05 01:15:51,782-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\1.3  Aula 1 - Atividade 3 ManagedBeans com CDI- .ts
+ 2023-03-05 01:15:53,192-INFO-Done
+ 2023-03-05 01:15:53,223-INFO-There are 12 videos to convert.
+ 2023-03-05 01:15:53,225-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\1.4  Aula 1 - Atividade 4 Gerenciando Beans com CDI .ts
+ 2023-03-05 01:15:53,225-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\1.4  Aula 1 - Atividade 4 Gerenciando Beans com CDI .ts
+ 2023-03-05 01:15:54,778-INFO-Done
+ 2023-03-05 01:15:54,877-INFO-There are 11 videos to convert.
+ 2023-03-05 01:15:54,888-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\2.1  Aula 2 - Atividade 1 Vídeo 1 .ts
+ 2023-03-05 01:15:54,893-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\2.1  Aula 2 - Atividade 1 Vídeo 1 .ts
+ 2023-03-05 01:15:59,462-INFO-Done
+ 2023-03-05 01:15:59,499-INFO-There are 10 videos to convert.
+ 2023-03-05 01:15:59,504-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\2.2  Aula 2 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:15:59,505-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\2.2  Aula 2 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:16:01,319-INFO-Done
+ 2023-03-05 01:16:01,391-INFO-There are 9 videos to convert.
+ 2023-03-05 01:16:01,404-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\2.3  Aula 2 - Atividade 3 Vídeo 3 .ts
+ 2023-03-05 01:16:01,405-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\2.3  Aula 2 - Atividade 3 Vídeo 3 .ts
+ 2023-03-05 01:16:05,339-INFO-Done
+ 2023-03-05 01:16:05,371-INFO-There are 8 videos to convert.
+ 2023-03-05 01:16:05,373-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\3.1  Aula 3 - Atividade 1 Gerenciando transações com CDI .ts
+ 2023-03-05 01:16:05,375-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\3.1  Aula 3 - Atividade 1 Gerenciando transações com CDI .ts
+ 2023-03-05 01:16:09,281-INFO-Done
+ 2023-03-05 01:16:09,313-INFO-There are 7 videos to convert.
+ 2023-03-05 01:16:09,316-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\3.2  Aula 3 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:16:09,319-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\3.2  Aula 3 - Atividade 2 Vídeo 2 .ts
+ 2023-03-05 01:16:09,731-INFO-Done
+ 2023-03-05 01:16:09,762-INFO-There are 6 videos to convert.
+ 2023-03-05 01:16:09,764-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\4.1  Aula 4 - Atividade 1 Injeção de dependências na estrutura de login .ts
+ 2023-03-05 01:16:09,765-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\4.1  Aula 4 - Atividade 1 Injeção de dependências na estrutura de login .ts
+ 2023-03-05 01:16:10,811-INFO-Done
+ 2023-03-05 01:16:10,855-INFO-There are 5 videos to convert.
+ 2023-03-05 01:16:10,859-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\4.2  Aula 4 - Atividade 2 Selecionando as vendas do banco de dados .ts
+ 2023-03-05 01:16:10,861-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\4.2  Aula 4 - Atividade 2 Selecionando as vendas do banco de dados .ts
+ 2023-03-05 01:16:13,600-INFO-Done
+ 2023-03-05 01:16:13,631-INFO-There are 4 videos to convert.
+ 2023-03-05 01:16:13,633-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\4.3  Aula 4 - Atividade 3 Relacionamentos do tipo EAGER .ts
+ 2023-03-05 01:16:13,634-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\4.3  Aula 4 - Atividade 3 Relacionamentos do tipo EAGER .ts
+ 2023-03-05 01:16:15,192-INFO-Done
+ 2023-03-05 01:16:15,266-INFO-There are 3 videos to convert.
+ 2023-03-05 01:16:15,275-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\5.1  Aula 5 - Atividade 1 Integração com o Maven .ts
+ 2023-03-05 01:16:15,277-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\5.1  Aula 5 - Atividade 1 Integração com o Maven .ts
+ 2023-03-05 01:16:19,272-INFO-Done
+ 2023-03-05 01:16:19,301-INFO-There are 2 videos to convert.
+ 2023-03-05 01:16:19,303-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\5.2  Aula 5 - Atividade 2 Integração com Spring .ts
+ 2023-03-05 01:16:19,304-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\5.2  Aula 5 - Atividade 2 Integração com Spring .ts
+ 2023-03-05 01:16:22,407-INFO-Done
+ 2023-03-05 01:16:22,455-INFO-There are 1 videos to convert.
+ 2023-03-05 01:16:22,457-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\5.3  Aula 5 - Atividade 3 Integração com EJB .ts
+ 2023-03-05 01:16:22,459-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\8. Java e JSF 2 - III Integração com CDI\5.3  Aula 5 - Atividade 3 Integração com EJB .ts
+ 2023-03-05 01:16:32,221-INFO-Done
+ 2023-03-05 01:16:32,559-INFO-There are no videos to convert
+ 2023-03-05 01:16:33,522-INFO-Star folder analysis: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA
+ 2023-03-05 01:16:33,589-INFO-Find for video with extension: .mp4, .ts, .mpg, .mpeg, .avi, .mkv, .flv, .3gp, .rmvb, .webm, .vob, .ogv, .rrc, .gifv, .mng, .mov, .qt, .wmv, .yuv, .rm, .asf, .amv, .m4p, .m4v, .mp2, .mpe, .mpv, .m4v, .svi, .3g2, .mxf, .roq, .nsv, .f4v, .f4p, .f4a, .f4b
+ 2023-03-05 01:16:33,602-INFO-Selected file: 1.1  Aula 1 - Atividade 1 Introdução .ts
+ 2023-03-05 01:16:33,603-INFO-Selected file: 1.3  Aula 1 - Atividade 3 Criando o Projeto .ts
+ 2023-03-05 01:16:33,605-INFO-Selected file: 1.9  Aula 1 - Atividade 9 Criando nosso primeiro formulário .ts
+ 2023-03-05 01:16:33,606-INFO-Selected file: 1.13  Aula 1 - Atividade 13 Configurando nosso DAO .ts
+ 2023-03-05 01:16:33,611-INFO-Selected file: 1.17  Aula 1 - Atividade 17 Configurando o Datasource .ts
+ 2023-03-05 01:16:33,612-INFO-Selected file: 1.19  Aula 1 - Atividade 19 Inserindo os Dados no Banco de Dados .ts
+ 2023-03-05 01:16:33,613-INFO-Selected file: 2.1  Aula 2 - Atividade 1 Criando a relação de Livro com Autor .ts
+ 2023-03-05 01:16:33,614-INFO-Selected file: 2.4  Aula 2 - Atividade 4 Salvando os Autores .ts
+ 2023-03-05 01:16:33,616-INFO-Selected file: 2.10  Aula 2 - Atividade 10 Listando os Livros e Autores .ts
+ 2023-03-05 01:16:33,617-INFO-Selected file: 3.1  Aula 3 - Atividade 1 Usando o escopo de Flash .ts
+ 2023-03-05 01:16:33,618-INFO-Selected file: 3.4  Aula 3 - Atividade 4 Produzindo o FacesContext .ts
+ 2023-03-05 01:16:33,619-INFO-Selected file: 3.6  Aula 3 - Atividade 6 Validando nosso formulário .ts
+ 2023-03-05 01:16:33,621-INFO-Selected file: 3.7  Aula 3 - Atividade 7 Message Bundles .ts
+ 2023-03-05 01:16:33,623-INFO-Selected file: 3.9  Aula 3 - Atividade 9 Usando a Bean Validation .ts
+ 2023-03-05 01:16:33,624-INFO-Selected file: 3.11  Aula 3 - Atividade 11 Melhorando as mensagens da Bean Validation .ts
+ 2023-03-05 01:16:33,631-INFO-Selected file: 4.1  Aula 4 - Atividade 1 Adicionando a Data de Publicação .ts
+ 2023-03-05 01:16:33,633-INFO-Selected file: 4.4  Aula 4 - Atividade 4 Criando nosso próprio Converter .ts
+ 2023-03-05 01:16:33,634-INFO-Selected file: 4.7  Aula 4 - Atividade 7 Convertendo o Autor .ts
+ 2023-03-05 01:16:33,635-INFO-Selected file: 5.1  Aula 5 - Atividade 1 Salvando a Imagem no Servidor .ts
+ 2023-03-05 01:16:33,636-INFO-Selected file: 5.5  Aula 5 - Atividade 5 Salvando o Path da Capa do Livro .ts
+ 2023-03-05 01:16:33,638-INFO-Selected file: 5.9  Aula 5 - Atividade 9 Obtendo a Capa do FileSystem .ts
+ 2023-03-05 01:16:33,639-INFO-Selected file: 5.13  Aula 5 - Atividade 13 Exibindo a Capa do Livro na Listagem .ts
+ 2023-03-05 01:16:33,644-INFO-Selected file: 6.1  Aula 6 - Atividade 1 Adicionando a Home Page da CDC .ts
+ 2023-03-05 01:16:33,645-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.1  Aula 1 - Atividade 1 Introdução .ts
+ 2023-03-05 01:16:34,016-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.3  Aula 1 - Atividade 3 Criando o Projeto .ts
+ 2023-03-05 01:16:34,281-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.9  Aula 1 - Atividade 9 Criando nosso primeiro formulário .ts
+ 2023-03-05 01:16:34,655-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.13  Aula 1 - Atividade 13 Configurando nosso DAO .ts
+ 2023-03-05 01:16:35,276-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.17  Aula 1 - Atividade 17 Configurando o Datasource .ts
+ 2023-03-05 01:16:35,625-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.19  Aula 1 - Atividade 19 Inserindo os Dados no Banco de Dados .ts
+ 2023-03-05 01:16:36,085-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\2.1  Aula 2 - Atividade 1 Criando a relação de Livro com Autor .ts
+ 2023-03-05 01:16:36,334-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\2.4  Aula 2 - Atividade 4 Salvando os Autores .ts
+ 2023-03-05 01:16:36,597-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\2.10  Aula 2 - Atividade 10 Listando os Livros e Autores .ts
+ 2023-03-05 01:16:37,092-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.1  Aula 3 - Atividade 1 Usando o escopo de Flash .ts
+ 2023-03-05 01:16:37,415-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.4  Aula 3 - Atividade 4 Produzindo o FacesContext .ts
+ 2023-03-05 01:16:37,652-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.6  Aula 3 - Atividade 6 Validando nosso formulário .ts
+ 2023-03-05 01:16:38,219-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.7  Aula 3 - Atividade 7 Message Bundles .ts
+ 2023-03-05 01:16:38,466-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.9  Aula 3 - Atividade 9 Usando a Bean Validation .ts
+ 2023-03-05 01:16:38,706-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.11  Aula 3 - Atividade 11 Melhorando as mensagens da Bean Validation .ts
+ 2023-03-05 01:16:39,151-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\4.1  Aula 4 - Atividade 1 Adicionando a Data de Publicação .ts
+ 2023-03-05 01:16:39,446-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\4.4  Aula 4 - Atividade 4 Criando nosso próprio Converter .ts
+ 2023-03-05 01:16:39,709-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\4.7  Aula 4 - Atividade 7 Convertendo o Autor .ts
+ 2023-03-05 01:16:40,337-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\5.1  Aula 5 - Atividade 1 Salvando a Imagem no Servidor .ts
+ 2023-03-05 01:16:40,595-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\5.5  Aula 5 - Atividade 5 Salvando o Path da Capa do Livro .ts
+ 2023-03-05 01:16:40,938-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\5.9  Aula 5 - Atividade 9 Obtendo a Capa do FileSystem .ts
+ 2023-03-05 01:16:41,445-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\5.13  Aula 5 - Atividade 13 Exibindo a Capa do Livro na Listagem .ts
+ 2023-03-05 01:16:41,730-INFO-run ffprobe: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\6.1  Aula 6 - Atividade 1 Adicionando a Home Page da CDC .ts
+ 2023-03-05 01:16:42,217-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.1  Aula 1 - Atividade 1 Introdução .ts
+ 2023-03-05 01:16:42,318-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.3  Aula 1 - Atividade 3 Criando o Projeto .ts
+ 2023-03-05 01:16:42,329-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.9  Aula 1 - Atividade 9 Criando nosso primeiro formulário .ts
+ 2023-03-05 01:16:42,342-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.13  Aula 1 - Atividade 13 Configurando nosso DAO .ts
+ 2023-03-05 01:16:42,367-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.17  Aula 1 - Atividade 17 Configurando o Datasource .ts
+ 2023-03-05 01:16:42,411-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.19  Aula 1 - Atividade 19 Inserindo os Dados no Banco de Dados .ts
+ 2023-03-05 01:16:42,446-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\2.1  Aula 2 - Atividade 1 Criando a relação de Livro com Autor .ts
+ 2023-03-05 01:16:42,452-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\2.4  Aula 2 - Atividade 4 Salvando os Autores .ts
+ 2023-03-05 01:16:42,454-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\2.10  Aula 2 - Atividade 10 Listando os Livros e Autores .ts
+ 2023-03-05 01:16:42,458-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.1  Aula 3 - Atividade 1 Usando o escopo de Flash .ts
+ 2023-03-05 01:16:42,460-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.4  Aula 3 - Atividade 4 Produzindo o FacesContext .ts
+ 2023-03-05 01:16:42,462-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.6  Aula 3 - Atividade 6 Validando nosso formulário .ts
+ 2023-03-05 01:16:42,463-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.7  Aula 3 - Atividade 7 Message Bundles .ts
+ 2023-03-05 01:16:42,465-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.9  Aula 3 - Atividade 9 Usando a Bean Validation .ts
+ 2023-03-05 01:16:42,469-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.11  Aula 3 - Atividade 11 Melhorando as mensagens da Bean Validation .ts
+ 2023-03-05 01:16:42,477-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\4.1  Aula 4 - Atividade 1 Adicionando a Data de Publicação .ts
+ 2023-03-05 01:16:42,480-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\4.4  Aula 4 - Atividade 4 Criando nosso próprio Converter .ts
+ 2023-03-05 01:16:42,482-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\4.7  Aula 4 - Atividade 7 Convertendo o Autor .ts
+ 2023-03-05 01:16:42,485-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\5.1  Aula 5 - Atividade 1 Salvando a Imagem no Servidor .ts
+ 2023-03-05 01:16:42,490-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\5.5  Aula 5 - Atividade 5 Salvando o Path da Capa do Livro .ts
+ 2023-03-05 01:16:42,492-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\5.9  Aula 5 - Atividade 9 Obtendo a Capa do FileSystem .ts
+ 2023-03-05 01:16:42,493-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\5.13  Aula 5 - Atividade 13 Exibindo a Capa do Livro na Listagem .ts
+ 2023-03-05 01:16:42,495-INFO-parsing: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\6.1  Aula 6 - Atividade 1 Adicionando a Home Page da CDC .ts
+ 2023-03-05 01:16:42,862-INFO-There are 23 videos to convert.
+ 2023-03-05 01:16:42,876-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.1  Aula 1 - Atividade 1 Introdução .ts
+ 2023-03-05 01:16:42,882-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.1  Aula 1 - Atividade 1 Introdução .ts
+ 2023-03-05 01:16:43,596-INFO-Done
+ 2023-03-05 01:16:43,646-INFO-There are 22 videos to convert.
+ 2023-03-05 01:16:43,652-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.3  Aula 1 - Atividade 3 Criando o Projeto .ts
+ 2023-03-05 01:16:43,654-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.3  Aula 1 - Atividade 3 Criando o Projeto .ts
+ 2023-03-05 01:16:46,568-INFO-Done
+ 2023-03-05 01:16:46,600-INFO-There are 21 videos to convert.
+ 2023-03-05 01:16:46,605-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.9  Aula 1 - Atividade 9 Criando nosso primeiro formulário .ts
+ 2023-03-05 01:16:46,606-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.9  Aula 1 - Atividade 9 Criando nosso primeiro formulário .ts
+ 2023-03-05 01:16:48,569-INFO-Done
+ 2023-03-05 01:16:48,601-INFO-There are 20 videos to convert.
+ 2023-03-05 01:16:48,604-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.13  Aula 1 - Atividade 13 Configurando nosso DAO .ts
+ 2023-03-05 01:16:48,605-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.13  Aula 1 - Atividade 13 Configurando nosso DAO .ts
+ 2023-03-05 01:16:50,157-INFO-Done
+ 2023-03-05 01:16:50,407-INFO-There are 19 videos to convert.
+ 2023-03-05 01:16:50,417-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.17  Aula 1 - Atividade 17 Configurando o Datasource .ts
+ 2023-03-05 01:16:50,417-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.17  Aula 1 - Atividade 17 Configurando o Datasource .ts
+ 2023-03-05 01:16:51,641-INFO-Done
+ 2023-03-05 01:16:51,846-INFO-There are 18 videos to convert.
+ 2023-03-05 01:16:51,853-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.19  Aula 1 - Atividade 19 Inserindo os Dados no Banco de Dados .ts
+ 2023-03-05 01:16:51,867-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\1.19  Aula 1 - Atividade 19 Inserindo os Dados no Banco de Dados .ts
+ 2023-03-05 01:16:53,672-INFO-Done
+ 2023-03-05 01:16:53,705-INFO-There are 17 videos to convert.
+ 2023-03-05 01:16:53,708-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\2.1  Aula 2 - Atividade 1 Criando a relação de Livro com Autor .ts
+ 2023-03-05 01:16:53,708-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\2.1  Aula 2 - Atividade 1 Criando a relação de Livro com Autor .ts
+ 2023-03-05 01:16:55,483-INFO-Done
+ 2023-03-05 01:16:55,518-INFO-There are 16 videos to convert.
+ 2023-03-05 01:16:55,523-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\2.4  Aula 2 - Atividade 4 Salvando os Autores .ts
+ 2023-03-05 01:16:55,528-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\2.4  Aula 2 - Atividade 4 Salvando os Autores .ts
+ 2023-03-05 01:16:58,657-INFO-Done
+ 2023-03-05 01:16:58,694-INFO-There are 15 videos to convert.
+ 2023-03-05 01:16:58,697-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\2.10  Aula 2 - Atividade 10 Listando os Livros e Autores .ts
+ 2023-03-05 01:16:58,698-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\2.10  Aula 2 - Atividade 10 Listando os Livros e Autores .ts
+ 2023-03-05 01:17:02,035-INFO-Done
+ 2023-03-05 01:17:02,074-INFO-There are 14 videos to convert.
+ 2023-03-05 01:17:02,080-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.1  Aula 3 - Atividade 1 Usando o escopo de Flash .ts
+ 2023-03-05 01:17:02,082-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.1  Aula 3 - Atividade 1 Usando o escopo de Flash .ts
+ 2023-03-05 01:17:03,967-INFO-Done
+ 2023-03-05 01:17:04,000-INFO-There are 13 videos to convert.
+ 2023-03-05 01:17:04,002-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.4  Aula 3 - Atividade 4 Produzindo o FacesContext .ts
+ 2023-03-05 01:17:04,003-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.4  Aula 3 - Atividade 4 Produzindo o FacesContext .ts
+ 2023-03-05 01:17:05,746-INFO-Done
+ 2023-03-05 01:17:05,779-INFO-There are 12 videos to convert.
+ 2023-03-05 01:17:05,783-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.6  Aula 3 - Atividade 6 Validando nosso formulário .ts
+ 2023-03-05 01:17:05,785-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.6  Aula 3 - Atividade 6 Validando nosso formulário .ts
+ 2023-03-05 01:17:06,707-INFO-Done
+ 2023-03-05 01:17:06,747-INFO-There are 11 videos to convert.
+ 2023-03-05 01:17:06,750-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.7  Aula 3 - Atividade 7 Message Bundles .ts
+ 2023-03-05 01:17:06,751-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.7  Aula 3 - Atividade 7 Message Bundles .ts
+ 2023-03-05 01:17:07,462-INFO-Done
+ 2023-03-05 01:17:07,495-INFO-There are 10 videos to convert.
+ 2023-03-05 01:17:07,497-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.9  Aula 3 - Atividade 9 Usando a Bean Validation .ts
+ 2023-03-05 01:17:07,497-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.9  Aula 3 - Atividade 9 Usando a Bean Validation .ts
+ 2023-03-05 01:17:09,185-INFO-Done
+ 2023-03-05 01:17:09,225-INFO-There are 9 videos to convert.
+ 2023-03-05 01:17:09,229-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.11  Aula 3 - Atividade 11 Melhorando as mensagens da Bean Validation .ts
+ 2023-03-05 01:17:09,230-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\3.11  Aula 3 - Atividade 11 Melhorando as mensagens da Bean Validation .ts
+ 2023-03-05 01:17:10,165-INFO-Done
+ 2023-03-05 01:17:10,196-INFO-There are 8 videos to convert.
+ 2023-03-05 01:17:10,200-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\4.1  Aula 4 - Atividade 1 Adicionando a Data de Publicação .ts
+ 2023-03-05 01:17:10,201-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\4.1  Aula 4 - Atividade 1 Adicionando a Data de Publicação .ts
+ 2023-03-05 01:17:11,366-INFO-Done
+ 2023-03-05 01:17:11,398-INFO-There are 7 videos to convert.
+ 2023-03-05 01:17:11,403-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\4.4  Aula 4 - Atividade 4 Criando nosso próprio Converter .ts
+ 2023-03-05 01:17:11,403-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\4.4  Aula 4 - Atividade 4 Criando nosso próprio Converter .ts
+ 2023-03-05 01:17:13,601-INFO-Done
+ 2023-03-05 01:17:13,630-INFO-There are 6 videos to convert.
+ 2023-03-05 01:17:13,632-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\4.7  Aula 4 - Atividade 7 Convertendo o Autor .ts
+ 2023-03-05 01:17:13,633-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\4.7  Aula 4 - Atividade 7 Convertendo o Autor .ts
+ 2023-03-05 01:17:15,622-INFO-Done
+ 2023-03-05 01:17:15,653-INFO-There are 5 videos to convert.
+ 2023-03-05 01:17:15,655-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\5.1  Aula 5 - Atividade 1 Salvando a Imagem no Servidor .ts
+ 2023-03-05 01:17:15,656-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\5.1  Aula 5 - Atividade 1 Salvando a Imagem no Servidor .ts
+ 2023-03-05 01:17:17,365-INFO-Done
+ 2023-03-05 01:17:17,399-INFO-There are 4 videos to convert.
+ 2023-03-05 01:17:17,405-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\5.5  Aula 5 - Atividade 5 Salvando o Path da Capa do Livro .ts
+ 2023-03-05 01:17:17,406-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\5.5  Aula 5 - Atividade 5 Salvando o Path da Capa do Livro .ts
+ 2023-03-05 01:17:19,936-INFO-Done
+ 2023-03-05 01:17:19,965-INFO-There are 3 videos to convert.
+ 2023-03-05 01:17:19,966-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\5.9  Aula 5 - Atividade 9 Obtendo a Capa do FileSystem .ts
+ 2023-03-05 01:17:19,967-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\5.9  Aula 5 - Atividade 9 Obtendo a Capa do FileSystem .ts
+ 2023-03-05 01:17:22,765-INFO-Done
+ 2023-03-05 01:17:22,800-INFO-There are 2 videos to convert.
+ 2023-03-05 01:17:22,801-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\5.13  Aula 5 - Atividade 13 Exibindo a Capa do Livro na Listagem .ts
+ 2023-03-05 01:17:22,802-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\5.13  Aula 5 - Atividade 13 Exibindo a Capa do Livro na Listagem .ts
+ 2023-03-05 01:17:23,268-INFO-Done
+ 2023-03-05 01:17:23,298-INFO-There are 1 videos to convert.
+ 2023-03-05 01:17:23,300-INFO-Start conversion without reencode: aac-h264-mpegts | C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\6.1  Aula 6 - Atividade 1 Adicionando a Home Page da CDC .ts
+ 2023-03-05 01:17:23,301-INFO-Convert video extension without reencode: C:\Formação JAVA JSF\9. Java EE parte 1 crie sua loja online com CDI, JSF, JPA\6.1  Aula 6 - Atividade 1 Adicionando a Home Page da CDC .ts
+ 2023-03-05 01:17:25,595-INFO-Done
+ 2023-03-05 01:17:25,729-INFO-There are no videos to convert

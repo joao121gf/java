@@ -1,0 +1,6 @@
+Vamos refatorar nosso ImportadorDeGastos.importa() para utilizar Set em vez de List.
+
+Utilizando ctrl + 1 altere o tipo do retorno para Collection;
+Troque o tipo da lista gastos para LinkedHashSet
+Sobrescreva utilizando ctrl + 3 os métodos hashCode e equals na classe Gasto (leia o warning do Eclipse, mas, por ora, ignore-o).
+Rode a classe TesteImportador e veja o resultado. Quantos gastos foram impressos?

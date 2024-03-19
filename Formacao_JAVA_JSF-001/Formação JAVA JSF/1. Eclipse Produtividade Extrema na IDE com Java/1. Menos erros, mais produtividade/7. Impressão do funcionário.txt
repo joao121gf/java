@@ -1,0 +1,11 @@
+Finalmente, para terminar nosso primeiro método, imprima o funcionário com o auxílio do template que escreve o System.out.println() para você. Basta escrever syso<ctrl + espaço> e completar, passando o funcionario para o método. Não escreva a palavra funcionario: comece a digitar e já pressione ctrl + espaço. O resultado final será:
+
+public static void main(String[] args) {
+    Calendar dataNascimento = new GregorianCalendar(1985, 3, 18);
+    Funcionario funcionario = new Funcionario("José", 25, dataNascimento);
+    System.out.println(funcionario);
+}
+
+
+Para ver o resultado, execute o main usando o comando ctrl + F11 e preste atenção à View do Console.
+

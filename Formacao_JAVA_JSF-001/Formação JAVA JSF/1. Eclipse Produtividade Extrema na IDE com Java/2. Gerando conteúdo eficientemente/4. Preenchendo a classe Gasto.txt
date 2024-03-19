@@ -1,0 +1,21 @@
+Na classe Gasto, crie os atributos necessários, sem se preocupar com a visibilidade deles ainda. Não se esqueça de usar o Ctrl+espaço para que os tipos sejam importados automaticamente. Lembre-se que para importar a classe diretamente, você deve deixar o eclipse usar o auto-complete, como no caso de Funcionario e Calendar. Você pode escrever normalmente também, e quando tiver o erro, apertar ctrl+1 e pedir para o Eclipse importar a classe.
+
+
+
+public class Gasto {
+    double valor;
+    String tipo;
+    Funcionario funcionario;
+    Calendar data;
+}
+
+
+Habilite o modo de seleção em bloco para adicionar o private em todas as linhas de uma vez só. Faça alt + shift + A e selecione (shift e seta para baixo, sem o mouse) o início das linhas dos atributos, então digite private e ele copiará tal palavra em cada linha selecionada.
+
+
+public class Gasto {
+    private double valor;
+    private String tipo;
+    private Funcionario funcionario;
+    private Calendar data;    
+}

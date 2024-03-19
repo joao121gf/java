@@ -1,0 +1,8 @@
+O exercício anterior continuou mostrando 3 gastos porque não sobrescrevemos a regra de comparação da classe Funcionario. Como o equals de Gasto depende de um Funcionario, ele não funcionará mesmo! Note que, já na criação desses métodos na classe Gasto o Eclipse avisou que ele poderia não funcionar como esperado.
+
+Sobreescreva, utilizando ctrl + 3, o hashCode e equals do Funcionario.
+
+E agora, quantos gastos foram mostrados?
+
+
+resposta: 1

@@ -1,0 +1,3 @@
+Agora que já temos nosso código bem formatado vamos melhorar mais a legibilidade modificando o nome das variáveis utilizadas em nosso método importa. Utilizando do atalho alt + shift + R altere o nome de todas as variáveis que estão com o nome abreviado para nomes mais significativos. Também altere o nome da classe Importador para ImportadorDeGastos.
+
+Tente escolher nomes que ajudem a entender a utilização e o conteúdo das variáveis, para que a manutenção posterior fique o mais simples possível, mesmo que seja feita por uma pessoa diferente da que criou o método.

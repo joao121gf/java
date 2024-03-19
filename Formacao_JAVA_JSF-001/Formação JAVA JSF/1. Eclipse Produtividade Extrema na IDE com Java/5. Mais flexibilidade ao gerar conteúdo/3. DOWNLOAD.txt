@@ -1,0 +1,8 @@
+Nesse capítulo também entramos em assuntos mais relacionados a Java EE, 
+Collections e Boas práticas com Java. Não se preocupe se não entender o código, 
+o importante é praticar o uso do Eclipse e aproveitar as facilidades criadas para nós, 
+desenvolvedores. Caso você queira saber mais sobre os assuntos tratados, 
+não deixe de acessar as formações de Java EE e Java.
+
+
+

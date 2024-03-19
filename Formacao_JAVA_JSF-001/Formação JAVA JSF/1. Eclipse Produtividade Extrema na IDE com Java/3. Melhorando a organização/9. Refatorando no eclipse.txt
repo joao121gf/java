@@ -1,0 +1,8 @@
+Mudar nosso código para melhorar a legibilidade, organização ou orientação a objetos é muito importante para a manutenabilidade. 
+Tanto que foi dado um nome para isso: Refatoração.
+
+Existem várias refatorações possíveis e algumas delas foram catalogadas em livros como o Refactoring do Martin Fowler.
+
+Algumas delas, como a Extract Method que usamos, foram automatizadas pelo eclipse e são tão importantes que existe um menu chamado Refactor (alt + T). 
+No meio do código, se quisermos aplicar alguma refatoração em um elemento, basta usar o atalho alt + shift + T para ver as que podem ser aplicadas nele,
+algumas com atalhos próprios.

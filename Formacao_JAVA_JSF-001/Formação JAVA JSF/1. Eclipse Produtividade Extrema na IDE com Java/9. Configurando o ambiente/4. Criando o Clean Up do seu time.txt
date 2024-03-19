@@ -1,0 +1,2 @@
+Quando trabalhamos em equipe, é interessante que o código seja limpo antes de ser enviado para o repositório central. Para ajudar com isso, podemos criar nosso próprio Profile de Clean Up: faça ctrl + 3 Clean Up e selecione a opção que está em Java / Code style.
+

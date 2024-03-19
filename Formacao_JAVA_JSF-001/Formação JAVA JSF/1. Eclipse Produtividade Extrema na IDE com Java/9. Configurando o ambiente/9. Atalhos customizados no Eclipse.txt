@@ -1,0 +1,2 @@
+Neste curso, aprendemos dezenas de atalhos no eclipse. Você pode voltar ao menu de atalhos (ctrl + 3, Keys) e dê uma navegada pelas opções existentes nessa tela.
+

@@ -1,0 +1,21 @@
+Criemos, então, um objeto do tipo Funcionario, sempre começando pela parte à direita do igual. Essa regra vale para todas as atribuições a variáveis, abuse dela! Escreva, dentro do main fazendo new Functrl + espaço e navegando entre os parâmetros do construtor chamado com tab. Preencha o nome e a matrícula e, então, aperte Enter. O cursor deve ir para o final da linha:
+
+public class Principal {
+    public static void main(String[] args) {
+        new Funcionario("José", 25, dataNascimento);
+    }
+}
+
+
+Aperte Ctrl+1 e escolha Assign statement to new local variable, que deve ser a primeira opção. Repare que o cursor já vai para o nome da variável criada, para você trocar se necessário.
+
+public class Principal {
+    public static void main(String[] args) {
+        Funcionario funcionario = new Funcionario("José", 25, dataNascimento);
+    }
+}
+
+
+
+Ao fazer esse código, foi necessário fazer o import do Funcionario? Foi necessário ir até a classe Funcionario para descobrir qual era o construtor?
+

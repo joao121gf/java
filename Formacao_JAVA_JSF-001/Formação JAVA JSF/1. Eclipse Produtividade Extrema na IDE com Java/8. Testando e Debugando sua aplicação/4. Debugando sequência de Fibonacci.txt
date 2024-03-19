@@ -1,0 +1,34 @@
+Copie a classe abaixo para seu projeto. Pelo nome, percebemos que ela calcula a sequência de Fibonacci.
+
+O problema é que a sua implementação não está muito clara. Para entender o que o algoritmo faz, é importante entendermos o conteúdo das variáveis n1 e n2 durante o cálculo de um dos números da sequência.
+
+Para isso, coloque um breakpoint na primeira linha do método calcula() - utilize o atalho ctrl + shift + B para isso.
+
+
+
+
+public class Fibonacci {
+
+    public int calcula(int n) {
+
+        int n1 = 0;
+        int n2 = 1;
+
+        for(int i = 1; i < n; i++) {
+            n2 = n2 + n1;
+            n1 = n2 - n1;
+        }
+
+        return n2;
+    }
+
+    public static void main(String[] args) {
+        for(int i = 1; i < 10; i++) {
+            System.out.println("fib(" + i + ")=" + new Fibonacci().calcula(i));
+        }
+    }
+}
+
+
+Ao rodar essa classe em modo de Debug pela primeira vez, o Eclipse pedirá para usar a perspectiva de debug. Deixe que ele faça isso!
+

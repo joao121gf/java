@@ -1,0 +1,3 @@
+Gere o construtor através de ctrl + 3 constructor ou com as iniciais gcuf, já que o nome do menu é generate constructor using fields. Uma tela bem parecida com a dos getters/setters vai aparecer para que você selecione os atributos que devem ser recebidos no construtor. Ao apertar enter o construtor solicitado será gerado automaticamente.
+
+Com o construtor preenchendo os dados da classe, ainda há a necessidade de usar os setters?

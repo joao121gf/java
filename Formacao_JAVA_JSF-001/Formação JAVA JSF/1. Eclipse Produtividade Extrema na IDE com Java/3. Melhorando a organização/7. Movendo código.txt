@@ -1,0 +1,2 @@
+Estamos criando o SimpleDateFormat em todas as iterações do nosso while. Vamos movê-lo para fora de nosso método, tornando-o um atributo privado da classe. Para isso, utilize o atalho , mostrado anteriormente.
+

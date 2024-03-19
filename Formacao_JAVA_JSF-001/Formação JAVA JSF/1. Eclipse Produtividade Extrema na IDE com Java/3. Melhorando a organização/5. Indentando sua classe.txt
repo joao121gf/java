@@ -1,0 +1,2 @@
+Volte sua classe para o estado inicial, usando o ctrl + Z. Existe um outro atalho que também ajuda na hora de organizar seu código, que é o ctrl + I. Selecione todo o código de sua classe com o ctrl + a e pressione o ctrl + I. Qual a diferença entre esse atalho e o ctrl + shift + F que usamos anteriormente?
+

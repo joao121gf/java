@@ -1,0 +1,6 @@
+Abra a classe TesteImportador usando o ctrl + shift + T, selecione a variável conteudo do main e substitua pelo seguinte código.
+
+String conteudo = 
+                "CARTAO01012011000010000123Jose da Silva                 22071983\r\n" +
+                "CARTAO01012011000010000123Jose da Silva                 22071983\r\n" +
+                "CARTAO01012011000010000123Jose da Silva

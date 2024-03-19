@@ -1,0 +1,7 @@
+Crie uma classe, sem ajuda do mouse, usando ctrl + N e começando a digitar Class na janela - duas letras devem ser suficientes se essa já não for a primeira opção. Selecione Class com as setinhas direcionais e dê enter.
+
+Escreva o nome da classe Gasto e, então, com ajuda do shift + tab navegue para o campo Package e o preencha com br.com.caelum.empresa.modelo. Desse campo mesmo, aperte enter para confirmar a criação dessa classe.
+
+Se estivermos com o foco em uma classe que já é do pacote br.com.caelum.empresa.modelo, o que muda ao criar a nova classe? E se estivermos com o foco no pacote? E se o foco não estiver em pacote nenhum?
+
+O eclipse tenta nos ajudar o máximo possível, aperte Ctrl+N novamente e veja quantas opções, desde um simples arquivo em branco a um cliente de Web Services. Quais dessas opções já te ajudaram ou te ajudariam em algo que você já escreveu?

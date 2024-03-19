@@ -1,0 +1,13 @@
+Abra a classe Principal no editor do Eclipse e maximize-a com Ctrl + M. Dentro dela digite main e ctrl + espaço e note que ele gerará o método main completo para você:
+
+public class Principal {
+
+    public static void main(String[] args) {
+
+    }
+}
+
+
+Esse é um código relativamente comum. E é normal, digitando manualmente, esquecermos o static ou de colocar o [].
+
+Continue explorando. Será que é necessário mesmo digitar main? Qual o mínimo de letras necessárias para que o Eclipse identifique que você quer que ele escreva o main?

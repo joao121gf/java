@@ -1,0 +1,3 @@
+Sobrescreva o método toString, movendo o cursor para alguma linha em branco da classe, fora de métodos, e digitando toS<ctrl + espaço>. Implemente retornando o tipo e o funcionario.
+
+Escreva um código de testes, num método main, que cria 3 gastos diferentes e imprime cada um deles. Lembre-se de usar os atalhos para replicar as linhas.

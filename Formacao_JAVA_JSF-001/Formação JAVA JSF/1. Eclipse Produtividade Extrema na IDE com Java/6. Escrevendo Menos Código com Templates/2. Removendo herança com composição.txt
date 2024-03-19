@@ -1,0 +1,15 @@
+Vamos modificar a classe GastoDAO para não utilizar mais de herança, e sim composição para resolver o problema dos dados repetidos.
+
+Vamos primeiro remover a herança da classe GastoDAO;
+Agora, remova o construtor, e crie um atributo dao do tipo DAO<Gasto>:
+
+
+
+public class GastoDAO{
+  private DAO<Gasto> dao = new DAO<Gasto>(Gasto.class);
+}
+
+
+Abra o menu Generate Delegate Methods utilizando o ctrl + 3. Gere os delegates dos métodos adiciona(), buscaPorId(), buscaTodos() e remove().
+
+
